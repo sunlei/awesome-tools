@@ -188,9 +188,9 @@ TODO: 待补充。
 ## Data Visualization and Analytics
 
 - [Grafana](https://grafana.com/)
-- [Metabase](https://metabase.com/) - [开源]，跟 Redash、Superset 对比后，选用了这个。
-- [Redash](https://redash.io/) - [开源]。
-- [Superset](https://superset.apache.org/) - [开源]。
+- [Metabase](https://metabase.com/) - [开源](https://github.com/metabase/metabase)，跟 Redash、Superset 对比后，选用了这个。
+- [Redash](https://redash.io/) - [开源](https://github.com/getredash/redash)。
+- [Superset](https://superset.apache.org/) - [开源](https://github.com/apache/incubator-superset)。
 
 ## Testing
 
