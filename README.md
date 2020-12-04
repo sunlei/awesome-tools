@@ -782,7 +782,7 @@ TODO: 插件待补充。
 
 ## Utilities
 
-- [Setapp](https://setapp.com/) - 整合了很多 macOS 下的软件，一直在订阅。
+- [Setapp](https://go.setapp.com/invite/b356f4fa-968e-4d6c-94d8-e40d988b2197) - 整合了很多 macOS 下的软件，一直在订阅。
 - [Homebrew](https://brew.sh/) - macOS 下的包管理器，神器。
 - [AirDroid](https://www.airdroid.com/) - Android 系统管理神器。
 - [Alfred](https://www.alfredapp.com/) - macOS 下的启动工具，买了 Powerpack 的 Mega 版，配合一些自己写的 Workflow，日常高频使用。
