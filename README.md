@@ -214,7 +214,7 @@ TODO: 待补充。
 ## Command Line
 
 - [Dotbot](https://github.com/anishathalye/dotbot) - dotfiles 管理工具，好用。
-- [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我[添加](https://github.com/lilydjwg/nvchecker/pull/126)了 sparkle 的支持后，配合 GitHub Actions 实现了[更新通知服务](https://github.com/sunlei/nvchecker)。
+- [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我[添加](https://github.com/lilydjwg/nvchecker/pull/126)了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了[更新通知服务](https://github.com/sunlei/nvchecker)。
 - [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH 插件。
 - [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog)。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
