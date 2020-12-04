@@ -16,6 +16,10 @@
 
 TODO: 待补充。
 
+## VSCode Extensions
+
+TODO: 待补充。
+
 ## Cheat Sheet
 
 - [cheat.sh](https://cheat.sh) - [开源](https://github.com/chubin/cheat.sh)。
@@ -276,6 +280,10 @@ TODO: 待补充。
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - [Sentry](https://sentry.io/) 的 CLI 工具。
 - [ossutil](https://github.com/aliyun/ossutil) - 阿里云 OSS 命令行工具。
 
+### Rewritten in Rust
+
+TODO: 待补充。
+
 ## CI/CD
 
 - [GitLab Runner](https://docs.gitlab.com/runner/) - 公司所有项目的 CI/CD 全靠这个。
@@ -520,10 +528,10 @@ TODO: 待补充。
 
 ## Window Management
 
-- [Magnet](https://magnet.crowdcafe.com/) - 窗口管理工具。
-- [Moom](https://manytricks.com/moom/) - 窗口管理工具。
-- [Phoenix](https://github.com/kasper/phoenix/) - 窗口管理工具。
-- [Rectangle](https://rectangleapp.com/) - 窗口管理工具。
+- [Magnet](https://magnet.crowdcafe.com/)
+- [Moom](https://manytricks.com/moom/)
+- [Phoenix](https://github.com/kasper/phoenix/)
+- [Rectangle](https://rectangleapp.com/)
 - [Contexts](https://contexts.co/) - Command-Tab 增强工具。
 
 ## Password Managers
