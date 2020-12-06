@@ -37,7 +37,7 @@
     - [File Managers](#file-managers)
     - [Music](#music)
     - [Markdown](#markdown)
-    - [Gaming](#gaming)
+    - [Games](#games)
     - [RSS](#rss)
     - [Development](#development)
     - [Design and Product](#design-and-product)
@@ -89,7 +89,70 @@ TODO: 待补充。
 
 ## VSCode Extensions
 
-TODO: 待补充。
+TODO: 待补充说明。
+
+- [Ansible](https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible)
+- [Beancount](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- [koroFileHeader](https://marketplace.visualstudio.com/items?itemName=OBKoro1.korofileheader)
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- [Modelines](https://marketplace.visualstudio.com/items?itemName=chrislajoie.vscode-modelines)
+- [nginx.conf hint](https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint)
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Pangu-Markdown](https://marketplace.visualstudio.com/items?itemName=xlthu.Pangu-Markdown)
+- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+- [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
+- [Python Test Explorer for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter)
+- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [reStructuredText](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
+- [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [SFTP](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp)
+- [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
+- [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
+- [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+- [Task Explorer](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer)
+- [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [vscode-json](https://marketplace.visualstudio.com/items?itemName=andyyaldoo.vscode-json)
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ## Cheat Sheet
 
@@ -170,6 +233,7 @@ TODO: 待补充。
 - [Fava](https://github.com/beancount/fava) - Beancount 的 Web 界面。
 - [MoneyWiz](https://wiz.money/) - 财务管理/记账软件。
 - [Receipts](https://www.receipts-app.com/) - 发票/收据管理。
+- [cointop](https://github.com/miguelmota/cointop) - 终端下的数字货币行情查看工具。
 
 ## HTTP/S Debug
 
@@ -312,7 +376,6 @@ TODO: 待补充。
 - [bat-extras](https://github.com/eth-p/bat-extras) - 基于 [bat](https://github.com/sharkdp/bat) 的几个工具。
 - [gnu-sed](https://www.gnu.org/software/sed/) - 在 macOS 下使用 GNU sed。
 - [ccat](https://github.com/owenthereal/ccat) - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat)。
-- [cointop](https://github.com/miguelmota/cointop) - 终端下的数字货币行情查看工具。
 - [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
 - [exiftool](https://exiftool.org/) - 命令行下的 EXIF 查看、编辑工具。
 - [fasd](https://github.com/clvv/fasd) - 目录快速跳转。
@@ -416,7 +479,7 @@ TODO: 待补充。
 - [Glow](https://github.com/charmbracelet/glow) - 命令行下的 Markdown 查看/渲染工具。
 - [Mark](https://github.com/kovetskiy/mark) - 将 Markdown 转换为 Confluence 的格式，并发布到 Confluence 中。
 
-## Gaming
+## Games
 
 - [Steam](https://store.steampowered.com/) - 游戏平台。
 
@@ -924,3 +987,4 @@ TODO: 插件待补充。
 - [Docutils](https://docutils.sourceforge.io/) - 文档处理工具。
 - [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Jupyter Web 界面。
 - [duti](https://github.com/moretension/duti/) - macOS 下命令行管理文件关联。
+- [mac-cleanup](https://github.com/fwartner/mac-cleanup) - for macOS 的清理脚本。
