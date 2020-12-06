@@ -920,7 +920,42 @@ TODO: 插件待补充。
 
 ## Chrome Extensions
 
-TODO: 待补充。
+TODO: 待补充说明。
+
+- [1Password](https://chrome.google.com/webstore/detail/aomjjhallfgjeglblehebfpbcfeobpgk)
+- [Archiveror](https://chrome.google.com/webstore/detail/cpjdnekhgjdecpmjglkcegchhiijadpb)
+- [Aria2 for Chrome](https://chrome.google.com/webstore/detail/mpkodccbngfoacfalldjimigbofkhgjn)
+- [Behave!](https://chrome.google.com/webstore/detail/mppjbkhgconmemoeagfbgilblohhcica)
+- [CL1024](https://chrome.google.com/webstore/detail/efdllnloheadnjjahfmdohomdphlgcjm)
+- [Close Duplicate Tab](https://chrome.google.com/webstore/detail/lccfnphpgnpeghoffocbacbkohbapinm)
+- [Decentraleyes](https://chrome.google.com/webstore/detail/ldpochfccmkkmhdbclfhpagapcfdljkj)
+- [Enhanced GitHub](https://chrome.google.com/webstore/detail/anlikcnbgdeidpacdbdljnabclhahhmd)
+- [Extensions Manager](https://chrome.google.com/webstore/detail/lpleipinonnoibneeejgjnoeekmbopbc)
+- [flomo](https://chrome.google.com/webstore/detail/okejodhgjffocohdpiacebjaahnoljim)
+- [Gitako - GitHub file tree](https://chrome.google.com/webstore/detail/giljefjcheohhamkjphiebfjnlphnokk)
+- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
+- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
+- [Markdown Here](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
+- [MarkDownload - Markdown Web Clipper](https://chrome.google.com/webstore/detail/pcmpcfapbekmbjjkdalcgopdkipoggdi)
+- [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
+- [Roam-highlighter](https://chrome.google.com/webstore/detail/mcoimieglmhdjdoplhpcmifgplkbfibp)
+- [Save Page WE](https://chrome.google.com/webstore/detail/dhhpefjklgkmgeafimnjhojgjamoafof)
+- [SimilarWeb](https://chrome.google.com/webstore/detail/hoklmmgfnpapgjgcpechhaamimifchmp)
+- [SingleFile](https://chrome.google.com/webstore/detail/mpiodijhokgodhhofbcjdecpffjipkle)
+- [Smart TOC](https://chrome.google.com/webstore/detail/lifgeihcfpkmmlfjbailfpfhbahhibba)
+- [Steam Database](https://chrome.google.com/webstore/detail/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
+- [Tabalanche](https://chrome.google.com/webstore/detail/bmdmojejipbodfjbnennbnakhpboaoje)
+- [TabCopy](https://chrome.google.com/webstore/detail/micdllihgoppmejpecmkilggmaagfdmb)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [TeamViewer](https://chrome.google.com/webstore/detail/oooiobdokpcfdlahlmcddobejikcmkfo)
+- [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [v2ex plus](https://chrome.google.com/webstore/detail/daeclijmnojoemooblcbfeeceopnkolo)
+- [京价保](https://chrome.google.com/webstore/detail/gfgkebiommjpiaomalcbfefimhhanlfd)
+- [拷贝猫](https://chrome.google.com/webstore/detail/jdjbiojkklnaeoanimopafmnmhldejbg)
+- [FireShot](https://chrome.google.com/webstore/detail/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+- [SimpRead](https://chrome.google.com/webstore/detail/ijllcpnolfcooahcekpamkbidhejabll)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 
 ## VSCode Extensions
 
