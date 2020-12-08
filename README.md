@@ -73,6 +73,7 @@
     - [Utilities](#utilities)
     - [Chrome Extensions](#chrome-extensions)
     - [VSCode Extensions](#vscode-extensions)
+    - [Linux/VPS Benchmarking](#linuxvps-benchmarking)
 
 ## Github
 
@@ -1023,3 +1024,31 @@ TODO: 待补充说明。
 - [vscode-json](https://marketplace.visualstudio.com/items?itemName=andyyaldoo.vscode-json)
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+## Linux/VPS Benchmarking
+
+- [bench.sh](https://bench.sh/)
+    - `wget -qO- bench.sh | bash`
+    - `curl -Lso- bench.sh | bash`
+- [n-st/nench](https://github.com/n-st/nench)
+    - `(curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
+    - `(wget -qO- wget.racing/nench.sh | bash; wget -qO- wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
+- [mgutz/vpsbench](https://github.com/mgutz/vpsbench)
+    - `bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)`
+- [Linux scripts](https://www.janyksteenbeek.nl/linux/)
+- [Bench.Monster](https://bench.monster/)
+- [VPS benchmark](https://busylog.net/vps-benchmark/)
+    - `wget https://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash`
+- [STH-Dev/linux-bench](https://github.com/STH-Dev/linux-bench)
+- [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh)
+- [oooldking/script](https://github.com/oooldking/script) - 包含测试到中国的网络速度脚本
+    - [superbench.sh](https://github.com/oooldking/script/blob/master/superbench.sh)
+    - [superspeed.sh](https://github.com/oooldking/script/blob/master/superspeed.sh)
+- [FunctionClub/ZBench](https://github.com/FunctionClub/ZBench)
+- [sayem314/serverreview-benchmark](https://github.com/sayem314/serverreview-benchmark)
+- [helloxz/mping](https://github.com/helloxz/mping)
+- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench)
+- [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench)
+- [centminmod/centminmodbench](https://github.com/centminmod/centminmodbench)
+- [centminmod/centminmod-sysbench](https://github.com/centminmod/centminmod-sysbench)
