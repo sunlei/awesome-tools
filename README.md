@@ -589,6 +589,7 @@ TODO: 待补充。
 - [YARA](https://github.com/VirusTotal/yara/) - 恶意软件查找。
 - [gnupg](https://gnupg.org/)
 - [GPG Suite](https://gpgtools.org/)
+- [Ciphey](https://github.com/Ciphey/Ciphey) - 使用自然语言处理和人工智能以及一些全自动解密/解码/破解工具。
 
 ## Window Management
 
