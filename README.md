@@ -416,6 +416,21 @@ TODO: 待补充。
 ## Games
 
 - [Steam](https://store.steampowered.com/) - 游戏平台。
+- [Minecraft(我的世界)](https://www.minecraft.net)
+- [Factorio(异星工厂)](https://store.steampowered.com/app/427520/Factorio/) - 一款建造工业生产流水线并保持其高效运转的游戏，终极目标就是把一切都自动化。强烈推荐，我的游戏时间 300 多小时。
+- [Terraria(泰拉瑞亚)](https://store.steampowered.com/app/105600/Terraria/) - 很多人说是 2D 版的 Minecraft。强烈推荐，我的游戏时间 200 多小时。
+- [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
+- [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)
+- [Don't Starve](https://store.steampowered.com/app/219740/Dont_Starve/)
+- [Oxygen Not Included(缺氧)](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
+- [Hades](https://store.steampowered.com/app/1145360/Hades/)
+- [Rogue's Tale](https://store.steampowered.com/app/265990/Rogues_Tale/)
+- [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
+- [Dungeon Warfare 2](https://store.steampowered.com/app/698540/Dungeon_Warfare_2/)
+- [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/)
+- [Starbound](https://store.steampowered.com/app/211820/Starbound/)
+- [Rise to Ruins](https://store.steampowered.com/app/328080/Rise_to_Ruins/) - 让我想起来小时候玩的 [野兽与乡巴佬](https://baike.baidu.com/item/%E9%87%8E%E5%85%BD%E4%B8%8E%E4%B9%A1%E5%B7%B4%E4%BD%AC)。
+- [YORG.io](https://yorg.io/) - 网页版的塔防。
 
 ## RSS
 
