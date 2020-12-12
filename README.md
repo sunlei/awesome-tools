@@ -571,7 +571,7 @@ TODO: 待补充。
 - [lhie1/Rules](https://github.com/lhie1/Rules/tree/master)
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 - [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles/tree/master)
-- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 整合各个开源的规则/脚本，大而全。
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 除了整合各个开源的规则/脚本，也有很多特有的，大而全。
 - [scomper/Surge](https://github.com/scomper/Surge)
 - [yichahucha/surge](https://github.com/yichahucha/surge)
 - [NobyDa/Script](https://github.com/NobyDa/Script/tree/master) - 以各种签到脚本为主。
