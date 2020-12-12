@@ -44,6 +44,7 @@
     - [Communication](#communication)
     - [Browsers](#browsers)
     - [Proxy and VPN](#proxy-and-vpn)
+    - [Proxy Rules And Scripts](#proxy-rules-and-scripts)
     - [Databases](#databases)
     - [Security](#security)
     - [Window Management](#window-management)
@@ -51,7 +52,8 @@
     - [Python](#python)
         - [Linter](#linter)
         - [Formatter](#formatter)
-        - [Package Managers](#package-managers)
+        - [Package Management](#package-management)
+        - [Packages](#packages)
     - [File System Events Monitoring](#file-system-events-monitoring)
     - [PDF](#pdf)
     - [Cloud Storage](#cloud-storage)
@@ -227,6 +229,8 @@ TODO: 待补充。
 - [Unbound](https://github.com/NLnetLabs/unbound) - DNS 服务器，之前拿来在本机跑了一个优化的。
 - [ngrep](https://github.com/jpr5/ngrep) - 网络 grep。
 - [UniFi Network Controller](https://www.ui.com/download/unifi/)
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最实用的 中国大陆 IP 段 + GeoIP2 数据库。
+- [17mon/china_ip_list](https://github.com/17mon/china_ip_list) - IPList for China by IPIP.NET。
 
 ## SSH
 
@@ -540,6 +544,8 @@ TODO: 待补充。
 - [Telegram](https://telegram.org/)
 - [WhatsApp](https://www.whatsapp.com/) - IM。
 - [irssi](https://irssi.org/) - IRC 客户端。
+- [Ripcord](https://cancel.fm/ripcord/) - 支持 Discord 和 Slack 的第三方客户端。
+- [Mastodon](https://instances.social/) - Mastodon 实例列表。
 
 ## Browsers
 
@@ -557,6 +563,20 @@ TODO: 待补充。
 - [Surge](https://nssurge.com/) - 官方定义「Advanced Network Toolbox for Mac & iOS」，但基本都是拿来翻墙，macOS 和 iOS 下都买了。
 - [WireGuard](https://www.wireguard.com/) - VPN。
 - [proxychains-ng](https://sourceforge.net/projects/proxychains-ng/) - 让命令行工具走代理。
+
+## Proxy Rules And Scripts
+
+包含 Surge/Quantumult X/Clash/Surfboard/Loon/Shadowrocket。
+
+- [lhie1/Rules](https://github.com/lhie1/Rules/tree/master)
+- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
+- [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles/tree/master)
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 整合各个开源的规则/脚本，大而全。
+- [scomper/Surge](https://github.com/scomper/Surge)
+- [yichahucha/surge](https://github.com/yichahucha/surge)
+- [NobyDa/Script](https://github.com/NobyDa/Script/tree/master) - 以各种签到脚本为主。
+- [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX)
+- [Koolson/Qure](https://github.com/Koolson/Qure) - 专为 Quantumult X 内策略组而精心设计的图标组。
 
 ## Databases
 
@@ -644,11 +664,17 @@ TODO: 待补充。
 - [black](https://github.com/psf/black)
 - [YAPF](https://github.com/google/yapf)
 
-### Package Managers
+### Package Management
 
 - [pip-tools](https://github.com/jazzband/pip-tools)
 - [PDM](https://pdm.fming.dev/)
 - [DepHell](https://github.com/dephell/dephell)
+
+### Packages
+
+- [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - 支持 Jira、Jira Service Desk、Confluence、BitBucket、Bamboo、Crowd。
+- [pycontribs/jira](https://github.com/pycontribs/jira)
+- [pycontribs/confluence](https://github.com/pycontribs/confluence) - 不维护了。
 
 ## File System Events Monitoring
 
@@ -869,7 +895,7 @@ TODO: 插件待补充。
 - [ipcalculatorver4](https://apps.apple.com/cn/app/ipcalculatorver4/id445268759) - IP 子网计算器。
 - [iPic](https://toolinbox.net/iPic/) - 支持各种图床的上传工具。
 - [PicGo](https://molunerfinn.com/PicGo/) - 支持各种图床的上传工具，基于 Electron，[开源](https://github.com/Molunerfinn/PicGo)。
-- [uPic](https://blog.svend.cc/upic/) - 支持各种图床的上传工具，[开源](https://github.com/gee1k/uPic)。
+- [uPic](https://blog.svend.cc/upic/) - 支持各种图床的上传工具，用起来更舒服一些，[开源](https://github.com/gee1k/uPic)。
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字。
 - [iSlide](https://www.islide.cc/) - 做 PPT 的神器。
 - [Itsycal](https://www.mowglii.com/itsycal/) - 日历工具。
