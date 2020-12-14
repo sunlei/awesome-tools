@@ -76,6 +76,8 @@
     - [Chrome Extensions](#chrome-extensions)
     - [VSCode Extensions](#vscode-extensions)
     - [Linux/VPS Benchmarking](#linuxvps-benchmarking)
+    - [Time Tracking](#time-tracking)
+    - [Robotic Process Automation](#robotic-process-automation)
 
 ## Github
 
@@ -120,7 +122,7 @@ TODO: 待补充。
 - [Alfred Snippets and Text Expansion](https://www.alfredapp.com/help/features/snippets/)
 - [aText](https://www.trankynam.com/atext/) - 支持 macOS 和 Windows 版，长期使用，Alfred 支持后就切换过去了。
 - [TextExpander](https://textexpander.com/) - 支持 macOS、Windows、iOS，短期使用，后被 aText 替代。
-- [espanso](https://espanso.org/) - Rust 写的[开源](https://github.com/federico-terzi/espanso)跨平台文字快捷输入工具，类似[aText](https://www.trankynam.com/atext/)、[TextExpander](https://textexpander.com/)。
+- [espanso](https://espanso.org/) - Rust 写的 [开源](https://github.com/federico-terzi/espanso) 跨平台文字快捷输入工具，类似 [aText](https://www.trankynam.com/atext/)、[TextExpander](https://textexpander.com/)。
 - [Rocket Typist](https://witt-software.com/rockettypist/)
 
 ## Automation
@@ -161,7 +163,7 @@ TODO: 待补充。
 
 ## Finance
 
-- [Beancount](http://furius.ca/beancount/) - [开源](https://github.com/beancount/beancount)复式记账软件，强烈推荐。
+- [Beancount](http://furius.ca/beancount/) - [开源](https://github.com/beancount/beancount) 复式记账软件，强烈推荐。
 - [Fava](https://github.com/beancount/fava) - Beancount 的 Web 界面。
 - [MoneyWiz](https://wiz.money/) - 财务管理/记账软件。
 - [Receipts](https://www.receipts-app.com/) - 发票/收据管理。
@@ -183,7 +185,7 @@ TODO: 待补充。
 ## Monitoring
 
 - [Prometheus](https://prometheus.io/)
-- [Netdata](https://www.netdata.cloud/) - [开源](https://github.com/netdata/netdata)监控系统。
+- [Netdata](https://www.netdata.cloud/) - [开源](https://github.com/netdata/netdata) 监控系统。
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 系统监控工具。
 - [bottom](https://github.com/ClementTsang/bottom) - 终端下的系统监控工具，类似 top、htop。
 - [Glances](https://nicolargo.github.io/glances/) - 系统监控，类似 top/htop。
@@ -196,7 +198,7 @@ TODO: 待补充。
 
 ## Content Management Systems
 
-- [Flarum](https://flarum.org/) - 用 PHP 实现的[开源](https://github.com/flarum/flarum)论坛程序。
+- [Flarum](https://flarum.org/) - 用 PHP 实现的 [开源](https://github.com/flarum/flarum) 论坛程序。
 - [Commento](https://commento.io/)
     - [Introduction](https://docs.commento.io/)
 
@@ -231,6 +233,7 @@ TODO: 待补充。
 - [UniFi Network Controller](https://www.ui.com/download/unifi/)
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最实用的 中国大陆 IP 段 + GeoIP2 数据库。
 - [17mon/china_ip_list](https://github.com/17mon/china_ip_list) - IPList for China by IPIP.NET。
+- [ping.pe](https://ping.pe/)
 
 ## SSH
 
@@ -250,7 +253,7 @@ TODO: 待补充。
 
 - [Arq](https://www.arqbackup.com/) - 常驻的备份软件。
 - [Carbon Copy Cloner](https://bombich.com/) - 备份软件。
-- [BorgBackup](https://www.borgbackup.org/) - [开源](https://github.com/borgbackup/borg)备份软件，强烈推荐。
+- [BorgBackup](https://www.borgbackup.org/) - [开源](https://github.com/borgbackup/borg) 备份软件，强烈推荐。
 - [borgmatic](https://github.com/witten/borgmatic) - BorgBackup 简化工具。
 - [Vorta](https://vorta.borgbase.com/) - Borg Backup 的图形化客户端，[开源](https://github.com/borgbase/vorta)。
 - [Google 备份与同步](https://support.google.com/a/answer/2490101?hl=en&ref_topic=7455083)
@@ -272,7 +275,7 @@ TODO: 待补充。
 ## Editors/IDEs
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Sublime Text](https://www.sublimetext.com/) - 代码编辑器，听说 4 在[内测](https://gist.github.com/jfcherng/7bf4103ea486d1f67b7970e846b3a619)中了。
+- [Sublime Text](https://www.sublimetext.com/) - 代码编辑器，听说 4 在 [内测](https://gist.github.com/jfcherng/7bf4103ea486d1f67b7970e846b3a619) 中了。
 - [CotEditor](https://coteditor.com/) - 文本编辑器，[开源](https://github.com/coteditor/CotEditor)。
 - [BBEdit](https://www.barebones.com/products/bbedit/) - 偶尔会用的编辑器。
 - [Monodraw](https://monodraw.helftone.com/) - ASCII 编辑器。
@@ -283,7 +286,7 @@ TODO: 待补充。
 ## Command Line
 
 - [Dotbot](https://github.com/anishathalye/dotbot) - dotfiles 管理工具，好用。
-- [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我[添加](https://github.com/lilydjwg/nvchecker/pull/126)了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了[更新通知服务](https://github.com/sunlei/nvchecker)。
+- [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker)。
 - [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH 插件。
 - [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog)。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
@@ -416,13 +419,13 @@ TODO: 待补充。
 ## Games
 
 - [Steam](https://store.steampowered.com/) - 游戏平台。
-- [Minecraft(我的世界)](https://www.minecraft.net)
-- [Factorio(异星工厂)](https://store.steampowered.com/app/427520/Factorio/) - 一款建造工业生产流水线并保持其高效运转的游戏，终极目标就是把一切都自动化。强烈推荐，我的游戏时间 300 多小时。
-- [Terraria(泰拉瑞亚)](https://store.steampowered.com/app/105600/Terraria/) - 很多人说是 2D 版的 Minecraft。强烈推荐，我的游戏时间 200 多小时。
+- [Minecraft（我的世界）](https://www.minecraft.net)
+- [Factorio（异星工厂）](https://store.steampowered.com/app/427520/Factorio/) - 一款建造工业生产流水线并保持其高效运转的游戏，终极目标就是把一切都自动化。强烈推荐，我的游戏时间 300 多小时。
+- [Terraria（泰拉瑞亚）](https://store.steampowered.com/app/105600/Terraria/) - 很多人说是 2D 版的 Minecraft。强烈推荐，我的游戏时间 200 多小时。
 - [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
 - [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)
 - [Don't Starve](https://store.steampowered.com/app/219740/Dont_Starve/)
-- [Oxygen Not Included(缺氧)](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
+- [Oxygen Not Included（缺氧）](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
 - [Hades](https://store.steampowered.com/app/1145360/Hades/)
 - [Rogue's Tale](https://store.steampowered.com/app/265990/Rogues_Tale/)
 - [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
@@ -431,6 +434,7 @@ TODO: 待补充。
 - [Starbound](https://store.steampowered.com/app/211820/Starbound/)
 - [Rise to Ruins](https://store.steampowered.com/app/328080/Rise_to_Ruins/) - 让我想起来小时候玩的 [野兽与乡巴佬](https://baike.baidu.com/item/%E9%87%8E%E5%85%BD%E4%B8%8E%E4%B9%A1%E5%B7%B4%E4%BD%AC)。
 - [YORG.io](https://yorg.io/) - 网页版的塔防。
+- [YORG.io 3](https://yorg3.io/)
 
 ## RSS
 
@@ -440,7 +444,7 @@ TODO: 待补充。
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html) - RSS 客户端。
 - [Newsboat](https://newsboat.org/) - 终端下的 RSS 阅读器。
 - [Miniflux](https://miniflux.app/) - [开源](https://github.com/miniflux/v2) RSS 阅读服务。
-- [Inoreader](https://www.inoreader.com/) - 我是 RSS 的重度用户，从 04、05 年到现在，基本每天都会用，阅读器[一路切换](https://huaidan.org/archives/917.html)，从 「[GeatNews](https://web.archive.org/web/20050222021701/http://www.curiostudio.com/) -> [抓虾](https://web.archive.org/web/20150811064809/http://www.zhuaxia.com/) -> Google Reader -> [Feedly](https://feedly.com/) -> [Inoreader](https://www.inoreader.com/)」，然后就一直订阅 Inoreader 的 Pro 版。
+- [Inoreader](https://www.inoreader.com/) - 我是 RSS 的重度用户，从 04、05 年到现在，基本每天都会用，阅读器 [一路切换](https://huaidan.org/archives/917.html)，从 「[GeatNews](https://web.archive.org/web/20050222021701/http://www.curiostudio.com/) -> [抓虾](https://web.archive.org/web/20150811064809/http://www.zhuaxia.com/) -> Google Reader -> [Feedly](https://feedly.com/) -> [Inoreader](https://www.inoreader.com/)」，然后就一直订阅 Inoreader 的 Pro 版。
 
 ## Development
 
@@ -592,6 +596,7 @@ TODO: 待补充。
 - [NobyDa/Script](https://github.com/NobyDa/Script/tree/master) - 以各种签到脚本为主。
 - [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX)
 - [Koolson/Qure](https://github.com/Koolson/Qure) - 专为 Quantumult X 内策略组而精心设计的图标组。
+- [Choler/Surge](https://github.com/Choler/Surge)
 
 ## Databases
 
@@ -637,7 +642,7 @@ TODO: 待补充。
 ## Password Managers
 
 - [1Password](https://1password.com/) - 使用了很多年的密码管理软件。
-- [KeyPass](https://www.dobysoft.com/products/keypass/) - 密码管理软件，Windows 平台下一直在用，至今在 macOS 下找不到替代品的神器。但是官方已[停止维护](https://www.dobysoft.com/products/keypass/history.html)，2002 年发布，17 年后停止维护，可惜。
+- [KeyPass](https://www.dobysoft.com/products/keypass/) - 密码管理软件，Windows 平台下一直在用，至今在 macOS 下找不到替代品的神器。但是官方已 [停止维护](https://www.dobysoft.com/products/keypass/history.html)，2002 年发布，17 年后停止维护，可惜。
 - [KeePass](https://keepass.info/)
 - [Bitwarden](https://bitwarden.com/) - 开源密码管理软件。
 - [Elpass](https://elpass.app/) - Surge 作者出的密码管理软件。
@@ -711,7 +716,7 @@ TODO: 待补充。
 
 - [OneDrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage)
 - [XPEnology](https://xpenology.com/forum/forum/31-loaders/) - 俗称黑群晖，自己有一台在跑。
-- [Netxcloud](https://nextcloud.com/) - [开源](https://github.com/nextcloud)云盘。
+- [Netxcloud](https://nextcloud.com/) - [开源](https://github.com/nextcloud) 云盘。
 - [CloudMounter](https://cloudmounter.net/) - 云盘挂载工具，但没有 Mountain Duck 好用。
 - [Mountain Duck](https://mountainduck.io/) - 云盘挂载工具。
 - [Megatools](https://megatools.megous.com/) - Mega.nz 的命令行工具。
@@ -1094,3 +1099,14 @@ TODO: 待补充说明。
 - [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench)
 - [centminmod/centminmodbench](https://github.com/centminmod/centminmodbench)
 - [centminmod/centminmod-sysbench](https://github.com/centminmod/centminmod-sysbench)
+
+## Time Tracking
+
+- [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) - 开源可自建。
+- [traggo/server](https://github.com/traggo/server) - 开源可自建。
+
+## Robotic Process Automation
+
+- [TagUI](https://github.com/kelaberetiv/TagUI)
+- [RPA-Python](https://github.com/tebelorg/RPA-Python)
+- [robotframework](https://github.com/robotframework/robotframework)
