@@ -224,7 +224,7 @@ TODO: 待补充说明。
 - [fping](https://fping.org/) - 加强版 ping。
 - [fselect](https://github.com/jhspetersson/fselect) - 用 SQL 查找文件。
 - [fx](https://github.com/antonmedv/fx) - JSON 处理工具。
-- [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH 插件。
+- [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh)。
 - [fzy](https://github.com/jhawthorn/fzy) - 类似 fzf。
 - [gnu-sed](https://www.gnu.org/software/sed/) - 在 macOS 下使用 GNU sed。
 - [gping](https://github.com/orf/gping) - 可视化的 ping。
@@ -913,7 +913,7 @@ TODO: 待补充。
 - [cmc](https://github.com/TimidRobot/cmc) - SSH ControlMaster 管理工具，但是在我这里不太好用，还是自己写了个脚本。
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - SSH 客户端。
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH Server 审计工具。
-- [stormssh](https://github.com/emre/storm) - SSH 管理工具，后来还是环自己结合 fzf 写的 zsh 插件了。
+- [stormssh](https://github.com/emre/storm) - SSH 管理工具，后来还是环自己结合 fzf 写的 zsh [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh) 了。
 - [xxh-xxh](https://github.com/xxh/xxh) - 把本地的 shell 通过 SSH 带到远程服务器。
 
 ## Task Management/To-Do Lists
