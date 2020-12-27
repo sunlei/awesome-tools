@@ -288,6 +288,8 @@ TODO: 待补充。
 - [Dotbot](https://github.com/anishathalye/dotbot) - dotfiles 管理工具，好用。
 - [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker)。
 - [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH 插件。
+- [sk](https://github.com/lotabout/skim) - 终端下的模糊查找工具，类似 fzf。
+- [fzy](https://github.com/jhawthorn/fzy) - 类似 fzf。
 - [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog)。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
 - [exa](https://the.exa.website/) - 加强版 ls，我已用来替换了 ls。
@@ -518,7 +520,6 @@ TODO: 待补充。
 - [Yarn](https://yarnpkg.com/) - JavaScript 包管理，类似 NPM。
 - [Terraform](https://www.terraform.io/) - 用于资源编排的自动化运维工具，可以拿来在各个云服务商那里做资源的管理/编排。
 - [scc](https://github.com/boyter/scc/) - 代码统计工具。
-- [sk](https://github.com/lotabout/skim) - 终端下的模糊查找工具，类似 fzf。
 - [starship](https://starship.rs/) - 不错的 shell 提示符，用过一段时间，后来换到了 [Powerlevel10k](https://github.com/romkatv/powerlevel10k)。
 - [stow](https://www.gnu.org/software/stow/) - 文件链接管理工具，常用来管理 dotfiles，不过我更喜欢 [Dotbot](https://github.com/anishathalye/dotbot)。
 - [Tokei](https://github.com/XAMPPRocky/tokei) - 代码统计工具。
@@ -533,6 +534,8 @@ TODO: 待补充。
 - [Figma](https://www.figma.com/) - 产品/设计工具。
 - [Sketch](https://www.sketch.com/) - 产品/设计工具。
 - [Sip](https://sipapp.io/) - 取色器。
+- [Nutanix Design](https://nutanix.design/)
+- [Design Systems Repo](https://designsystemsrepo.com/)
 
 ## Prototyping and Mind-Mapping
 
@@ -1089,7 +1092,7 @@ TODO: 待补充说明。
     - `wget https://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash`
 - [STH-Dev/linux-bench](https://github.com/STH-Dev/linux-bench)
 - [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh)
-- [oooldking/script](https://github.com/oooldking/script) - 包含测试到中国的网络速度脚本
+- [oooldking/script](https://github.com/oooldking/script) - 包含测试到中国的网络速度脚本。
     - [superbench.sh](https://github.com/oooldking/script/blob/master/superbench.sh)
     - [superspeed.sh](https://github.com/oooldking/script/blob/master/superspeed.sh)
 - [FunctionClub/ZBench](https://github.com/FunctionClub/ZBench)
