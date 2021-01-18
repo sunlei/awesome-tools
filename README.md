@@ -56,8 +56,8 @@
 - [Proxy and VPN](#proxy-and-vpn)
 - [Proxy Rules And Scripts](#proxy-rules-and-scripts)
 - [Python](#python)
-    - [Linter](#linter)
     - [Formatter](#formatter)
+    - [Linter](#linter)
     - [Package Management](#package-management)
     - [Packages](#packages)
 - [Regular Expressions](#regular-expressions)
@@ -126,8 +126,8 @@ TODO: 待补充。
 
 ## Cheat Sheet
 
-- [cheat.sh](https://cheat.sh) - [开源](https://github.com/chubin/cheat.sh)。
 - [cheat](https://github.com/cheat/cheat)
+- [cheat.sh](https://cheat.sh) - [开源](https://github.com/chubin/cheat.sh)。
 - [navi](https://github.com/denisidoro/navi) - Rust 写的。
 - [tealdeer](https://github.com/dbrgn/tealdeer) - [tldr](https://github.com/tldr-pages/tldr) 的 Rust 实现。
 - [tldr](https://github.com/tldr-pages/tldr)
@@ -188,8 +188,8 @@ TODO: 待补充说明。
 - [Mountain Duck](https://mountainduck.io/) - 云盘挂载工具。
 - [Netxcloud](https://nextcloud.com/) - [开源](https://github.com/nextcloud) 云盘。
 - [OneDrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage)
-- [Rclone browser](https://github.com/kapitainsky/RcloneBrowser) - [Rclone](https://rclone.org/) GUI.
 - [Rclone](https://rclone.org/) - 支持各种云存储的管理工具，神器。
+- [Rclone browser](https://github.com/kapitainsky/RcloneBrowser) - [Rclone](https://rclone.org/) GUI.
 - [RcloneOSX](https://github.com/rsyncOSX/rcloneosx) - [Rclone](https://rclone.org/) GUI.
 - [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - rsync GUI.
 - [XPEnology](https://xpenology.com/forum/forum/31-loaders/) - 俗称黑群晖，自己有一台在跑。
@@ -206,8 +206,8 @@ TODO: 待补充说明。
 - [autojump](https://github.com/wting/autojump) - 加强 cd 命令。
 - [aws-shell](https://aws.amazon.com/cli/) - AWS 命令行工具，[开源](https://github.com/awslabs/aws-shell)。
 - [awscli](https://github.com/aws/aws-cli) - AWS 命令行工具。
-- [bat-extras](https://github.com/eth-p/bat-extras) - 基于 [bat](https://github.com/sharkdp/bat) 的几个工具。
 - [bat](https://github.com/sharkdp/bat) - 支持高亮的 cat，我已经用来替换 cat。
+- [bat-extras](https://github.com/eth-p/bat-extras) - 基于 [bat](https://github.com/sharkdp/bat) 的几个工具。
 - [ccat](https://github.com/owenthereal/ccat) - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat)。
 - [coreutils](https://www.gnu.org/software/coreutils/) - 在 macOS 下使用 GNU Core Utilities。
 - [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog)。
@@ -265,8 +265,8 @@ TODO: 待补充说明。
 - [unar](https://theunarchiver.com/command-line) - [The Unarchiver](https://theunarchiver.com/) 的命令行版。
 - [unrar](https://www.rarlab.com/) - 命令行下的 rar 解压工具。
 - [xsv](https://github.com/BurntSushi/xsv) - Rust 写的 CSV 处理工具。
-- [z.lua](https://github.com/skywind3000/z.lua) - 智能化 cd。
 - [z](https://github.com/rupa/z) - 智能化 cd。
+- [z.lua](https://github.com/skywind3000/z.lua) - 智能化 cd。
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - 智能化 cd。
 
 ### Rewritten in Rust
@@ -373,8 +373,8 @@ TODO: 待补充。
 - [Nexus Repository](https://www.sonatype.com/nexus/repository-pro) - 各种包的私有仓库。
 - [nginx](https://nginx.org/)
 - [nodenv](https://github.com/nodenv/nodenv) - Node.js 版本管理工具。
-- [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - npm 依赖更新检查工具。
 - [npm-check](https://github.com/dylang/npm-check) - npm 依赖检查工具。
+- [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - npm 依赖更新检查工具。
 - [nvm](https://github.com/nvm-sh/nvm) - Node.js 版本管理工具。
 - [oss-browser](https://help.aliyun.com/document_detail/61872.html) - 阿里云 OSS 图形化管理工具。
 - [pacparser](https://github.com/manugarg/pacparser) - PAC 解析工具。
@@ -423,8 +423,8 @@ TODO: 待补充。
 - [mdbook](https://rust-lang.github.io/mdBook/) - 文档生成工具，适合拿来代替 [GitBook](https://www.gitbook.com/)。
 - [MkDocs](https://www.mkdocs.org/) - 公司内部很多文档都用这个生成的。
     - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-- [sphinx-autobuild](https://github.com/executablebooks/sphinx-autobuild) - Sphinx 的实时预览工具。
 - [Sphinx](https://www.sphinx-doc.org/en/master/) - 使用 reStructuredText 格式的文档处理工具。
+- [sphinx-autobuild](https://github.com/executablebooks/sphinx-autobuild) - Sphinx 的实时预览工具。
 
 ## Editors/IDEs
 
@@ -463,8 +463,8 @@ TODO: 待补充。
 - [File Juggler](https://www.filejuggler.com/)
 - [Hazel](https://www.noodlesoft.com/)
 - [Maid](https://github.com/benjaminoakes/maid)
-- [Organize My Files](https://snapcraft.io/organize-my-files)
 - [organize](https://github.com/tfeldmann/organize) - 文件自动处理工具，类似 Hazel，我已经逐渐拿来替换 Hazel。
+- [Organize My Files](https://snapcraft.io/organize-my-files)
 - [Spotless](https://www.lightpillar.com/spotless.html) - 文件自动处理，类似 Hazel。
 
 ## File Sharing and Synchronization
@@ -501,12 +501,12 @@ TODO: 待补充。
 
 ## Fonts
 
-- [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 - [Fira Code](https://github.com/tonsky/FiraCode)
+- [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 - [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 - [Meslo Nerd Font](https://github.com/ryanoasis/nerd-fonts)
-- [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro)
 
 ## Games
 
@@ -525,8 +525,8 @@ TODO: 待补充。
 - [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
 - [Steam](https://store.steampowered.com/) - 游戏平台。
 - [Terraria（泰拉瑞亚）](https://store.steampowered.com/app/105600/Terraria/) - 很多人说是 2D 版的 Minecraft。强烈推荐，我的游戏时间 200 多小时。
-- [YORG.io 3](https://yorg3.io/)
 - [YORG.io](https://yorg.io/) - 网页版的塔防。
+- [YORG.io 3](https://yorg3.io/)
 
 ## Git
 
@@ -598,17 +598,6 @@ TODO: 待补充。
 
 ## IP Geolocation
 
-- [cip.cc](http://www.cip.cc/) - `curl cip.cc`、`curl ip.cip.cc`
-- [ifconfig.co](https://ifconfig.co/) - `curl ifconfig.co`
-- [ifconfig.me](https://ifconfig.me/) - `curl ifconfig.me`
-- [IP.cn](https://ip.cn/)
-- [IP.SB](https://ip.sb/) - `curl ip.sb`
-- [ip138](https://ip138.com/)
-- [ipify](https://www.ipify.org/) - `curl 'https://api.ipify.org?format=json'`
-- [IPinfo.io](https://ipinfo.io/) - `curl ipinfo.io`、`curl ipinfo.io/ip`
-- [IPIP.NET](https://www.ipip.net/) - `curl myip.ipip.net`
-- [members.3322.org/dyndns/getip](http://members.3322.org/dyndns/getip)
-- [zxinc](https://ip.zxinc.org/) - `curl 'https://ip.zxinc.org/api.php?type=json'`
 - `curl checkip.amazonaws.com`
 - `curl curlmyip.com`
 - `curl icanhazip.com`
@@ -620,6 +609,17 @@ TODO: 待补充。
 - `dig +short myip.opendns.com @resolver1.opendns.com`
 - `dig TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
 - `host myip.opendns.com resolver1.opendns.com`
+- [cip.cc](http://www.cip.cc/) - `curl cip.cc`、`curl ip.cip.cc`
+- [ifconfig.co](https://ifconfig.co/) - `curl ifconfig.co`
+- [ifconfig.me](https://ifconfig.me/) - `curl ifconfig.me`
+- [IP.cn](https://ip.cn/)
+- [IP.SB](https://ip.sb/) - `curl ip.sb`
+- [ip138](https://ip138.com/)
+- [ipify](https://www.ipify.org/) - `curl 'https://api.ipify.org?format=json'`
+- [IPinfo.io](https://ipinfo.io/) - `curl ipinfo.io`、`curl ipinfo.io/ip`
+- [IPIP.NET](https://www.ipip.net/) - `curl myip.ipip.net`
+- [members.3322.org/dyndns/getip](http://members.3322.org/dyndns/getip)
+- [zxinc](https://ip.zxinc.org/) - `curl 'https://ip.zxinc.org/api.php?type=json'`
 
 ## Let's Encrypt
 
@@ -629,31 +629,31 @@ TODO: 待补充。
 
 ## Linux/VPS Benchmarking
 
+- [Bench.Monster](https://bench.monster/)
 - [bench.sh](https://bench.sh/)
     - `wget -qO- bench.sh | bash`
     - `curl -Lso- bench.sh | bash`
-- [n-st/nench](https://github.com/n-st/nench)
-    - `(curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
-    - `(wget -qO- wget.racing/nench.sh | bash; wget -qO- wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
+- [centminmod/centminmod-sysbench](https://github.com/centminmod/centminmod-sysbench)
+- [centminmod/centminmodbench](https://github.com/centminmod/centminmodbench)
+- [FunctionClub/ZBench](https://github.com/FunctionClub/ZBench)
+- [helloxz/mping](https://github.com/helloxz/mping)
+- [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench)
+- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench)
+- [Linux scripts](https://www.janyksteenbeek.nl/linux/)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
 - [mgutz/vpsbench](https://github.com/mgutz/vpsbench)
     - `bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)`
-- [Linux scripts](https://www.janyksteenbeek.nl/linux/)
-- [Bench.Monster](https://bench.monster/)
-- [VPS benchmark](https://busylog.net/vps-benchmark/)
-    - `wget https://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash`
-- [STH-Dev/linux-bench](https://github.com/STH-Dev/linux-bench)
-- [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh)
+- [n-st/nench](https://github.com/n-st/nench)
+    - `(curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
+    - `(wget -qO- wget.racing/nench.sh | bash; wget -qO- wget.racing/nench.sh | bash) 2>&1 | tee nench.log`
 - [oooldking/script](https://github.com/oooldking/script) - 包含测试到中国的网络速度脚本。
     - [superbench.sh](https://github.com/oooldking/script/blob/master/superbench.sh)
     - [superspeed.sh](https://github.com/oooldking/script/blob/master/superspeed.sh)
-- [FunctionClub/ZBench](https://github.com/FunctionClub/ZBench)
 - [sayem314/serverreview-benchmark](https://github.com/sayem314/serverreview-benchmark)
-- [helloxz/mping](https://github.com/helloxz/mping)
-- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench)
-- [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench)
-- [centminmod/centminmodbench](https://github.com/centminmod/centminmodbench)
-- [centminmod/centminmod-sysbench](https://github.com/centminmod/centminmod-sysbench)
+- [STH-Dev/linux-bench](https://github.com/STH-Dev/linux-bench)
+- [teddysun/across/unixbench.sh](https://github.com/teddysun/across/blob/master/unixbench.sh)
+- [VPS benchmark](https://busylog.net/vps-benchmark/)
+    - `wget https://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash`
 
 ## Markdown
 
@@ -699,17 +699,17 @@ TODO: 待补充。
 ## Music
 
 - [QQ 音乐](https://y.qq.com/)
-- [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Rust 写的终端下的 Spotify 客户端。
 - [Spotify](https://www.spotify.com/)
+- [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Rust 写的终端下的 Spotify 客户端。
 - [网易云音乐](http://music.163.com/) - QQ 音乐的 VIP 到期且淘宝的 88VIP 开始送会员后转过来的。
 
 ## Networking
 
 - [17mon/china_ip_list](https://github.com/17mon/china_ip_list) - IPList for China by IPIP.NET。
+- [aria2](https://aria2.github.io/) - 几乎全能的下载功能。
 - [Aria2 Pro](https://github.com/P3TERX/Docker-Aria2-Pro) - 对 aria2 做了很多优化配置的 Docker 镜像，我在 seedbox 上跑了一个，本地通过 [AriaNg](https://github.com/mayswind/AriaNg) 来管理。
 - [AriaNg](https://github.com/mayswind/AriaNg) - aria2 的 Web 管理工具
     - [AriaNg Native](https://github.com/mayswind/AriaNg-Native) - 基于 [Electron](https://github.com/electron/electron) 实现的 AriaNg 桌面版。
-- [aria2](https://aria2.github.io/) - 几乎全能的下载功能。
 - [axel](https://github.com/axel-download-accelerator/axel) - 多线程下载工具。
 - [Folx](https://mac.eltima.com/download-manager.html) - 下载工具。
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最实用的 中国大陆 IP 段 + GeoIP2 数据库。
@@ -823,18 +823,18 @@ TODO: 待补充。
 - [twine](https://twine.readthedocs.io/en/latest/) - PyPI 发布工具。
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python!
 
+### Formatter
+
+- [autopep8](https://github.com/hhatto/autopep8)
+- [black](https://github.com/psf/black)
+- [YAPF](https://github.com/google/yapf)
+
 ### Linter
 
 - [Flake8](https://github.com/PyCQA/flake8)
 - [Prospector](http://prospector.landscape.io/en/master/)
 - [Pyflakes](https://github.com/PyCQA/pyflakes)
 - [Pylint](https://www.pylint.org/)
-
-### Formatter
-
-- [autopep8](https://github.com/hhatto/autopep8)
-- [black](https://github.com/psf/black)
-- [YAPF](https://github.com/google/yapf)
 
 ### Package Management
 
@@ -952,8 +952,8 @@ TODO: 待补充。
 ## Utilities
 
 - [AirDroid](https://www.airdroid.com/) - Android 系统管理神器。
-- [alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 的 VSCode workflow。
 - [Alfred](https://www.alfredapp.com/) - macOS 下的启动工具，买了 Powerpack 的 Mega 版，配合一些自己写的 Workflow，日常高频使用。
+- [alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 的 VSCode workflow。
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - macOS 下的软件卸载工具。
 - [awg](https://github.com/rydesun/awesome-github) - 挖掘各种 Awesome List 中 GitHub 仓库的信息。
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - macOS 下独立控制各应用的声音。
@@ -1064,13 +1064,13 @@ TODO: 待补充说明。
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
 - [Python Test Explorer for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter)
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [reStructuredText](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
