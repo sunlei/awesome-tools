@@ -1101,8 +1101,6 @@ TODO: 待补充说明。
 
 ## Zsh plugin
 
-TODO: 插件待补充。
-
 - [Antibody](https://github.com/getantibody/antibody) - zsh 插件管理工具，用过一段时间，后来换 [Zinit](https://github.com/zdharma/zinit) 了。
 - [Antigen](https://github.com/zsh-users/antigen) - zsh 插件管理工具。
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh theme，很好用，特别是`Instant prompt`这个特性，我从 [starship](https://starship.rs/) 转过来的。
@@ -1110,4 +1108,5 @@ TODO: 插件待补充。
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+- [zsh-ssh](https://github.com/sunlei/zsh-ssh) - 自己写的一个 zsh 下通过 fzf 增强 ssh 命令的工具，日常高频使用，[演示](https://asciinema.org/a/381405)。
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
