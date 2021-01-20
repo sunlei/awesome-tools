@@ -75,6 +75,7 @@
 - [Utilities](#utilities)
 - [VSCode Extensions](#vscode-extensions)
 - [Window Management](#window-management)
+- [Workflow Automation](#workflow-automation)
 - [Zsh plugin](#zsh-plugin)
 
 ## Alfred Workflows
@@ -1011,6 +1012,7 @@ TODO: 待补充。
 - [ProFind](http://www.zeroonetwenty.com/profind/) - 文件查找工具。
 - [QR Factory](https://www.tunabellysoftware.com/qrfactory/) - 二维码处理工具。
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - 一系列 Quick Look 插件。
+- [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) - 让鼠标侧面的按键在 macOS 下发挥作用，[开源](https://github.com/archagon/sensible-side-buttons)。
 - [Setapp](https://go.setapp.com/invite/b356f4fa-968e-4d6c-94d8-e40d988b2197) - 整合了很多 macOS 下的软件，一直在订阅。
 - [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage/) - pkg 预览工具。
 - [TextSoap](https://www.unmarked.com/textsoap/) - 文字清理工具。
@@ -1098,6 +1100,29 @@ TODO: 待补充说明。
 - [Moom](https://manytricks.com/moom/)
 - [Phoenix](https://github.com/kasper/phoenix/)
 - [Rectangle](https://rectangleapp.com/)
+
+## Workflow Automation
+
+IFTTT 的同类。
+
+- [Actionsflow](https://github.com/actionsflow/actionsflow) - 可以用 Github actions 来跑，支持的 [服务](https://actionsflow.github.io/docs/triggers/)。
+- [Apache NiFi](https://nifi.apache.org/) - 放到这个分类有点牵强。
+- [Apiway](https://apiway.ai/)
+- [Autocode](https://autocode.com/) - 支持的 [服务](https://autocode.com/lib/)。
+- [Automate](https://automate.io/) - 支持的 [服务](https://automate.io/integrations)。
+- [Beehive](https://github.com/muesli/beehive) - 支持的 [服务](https://github.com/muesli/beehive/wiki/Available-Hives)。
+- [DataFire](https://github.com/DataFire/DataFire) - 支持的 [服务](https://app.datafire.io/integrations)。
+- [Home Assistant](https://www.home-assistant.io/) - 放到这个分类有点牵强，支持的 [服务](https://www.home-assistant.io/integrations/)。
+- [Huginn](https://github.com/huginn/huginn)
+- [IFTTT](https://ifttt.com/) - 老牌的，我用了很多年，前段时间开始收费了。
+- [Integromat](https://www.integromat.com/)
+- [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios)
+- [Microsoft Power Automate](https://flow.microsoft.com/) - 微软出品。
+- [n8n](https://github.com/n8n-io/n8n) - 支持的 [服务](https://n8n.io/integrations)。
+- [Node-RED](https://nodered.org/)
+- [Tasker for Android](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - Android 上的，类似 iOS 的快捷指令，[官网](https://tasker.joaoapps.com/)。
+- [WayScript](https://wayscript.com/) - 支持的 [服务](https://wayscript.com/integrations)。
+- [Zapier](https://zapier.com/) - 支持的 [服务](https://zapier.com/apps)。
 
 ## Zsh plugin
 
