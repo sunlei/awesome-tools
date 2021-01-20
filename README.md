@@ -26,7 +26,7 @@
 - [Development](#development)
 - [Docker](#docker)
 - [Documentation Generator](#documentation-generator)
-- [Editors/IDEs](#editorsides)
+- [Editors / IDEs](#editors--ides)
 - [Email](#email)
 - [File Managers](#file-managers)
 - [File Organization](#file-organization)
@@ -49,6 +49,7 @@
 - [Music](#music)
 - [Networking](#networking)
 - [Note-taking](#note-taking)
+    - [Roam Like / Networked](#roam-like--networked)
 - [Password Managers](#password-managers)
 - [PDF](#pdf)
 - [Project Management](#project-management)
@@ -67,7 +68,7 @@
 - [Screencapturing](#screencapturing)
 - [Security](#security)
 - [SSH](#ssh)
-- [Task Management/To-Do Lists](#task-managementto-do-lists)
+- [Task Management / To-Do Lists](#task-management--to-do-lists)
 - [Terminal](#terminal)
 - [Testing](#testing)
 - [Text Expander](#text-expander)
@@ -427,7 +428,7 @@ TODO: 待补充。
 - [Sphinx](https://www.sphinx-doc.org/en/master/) - 使用 reStructuredText 格式的文档处理工具。
 - [sphinx-autobuild](https://github.com/executablebooks/sphinx-autobuild) - Sphinx 的实时预览工具。
 
-## Editors/IDEs
+## Editors / IDEs
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) - 偶尔会用的编辑器。
 - [CotEditor](https://coteditor.com/) - 文本编辑器，[开源](https://github.com/coteditor/CotEditor)。
@@ -740,12 +741,27 @@ TODO: 待补充。
 - [Drafts](https://getdrafts.com/) - macOS 和 iOS 双平台文字处理工具。
 - [Joplin](https://joplinapp.org/) - 笔记工具，[开源](https://github.com/laurent22/joplin)。
 - [MWeb](https://zh.mweb.im/) - Markdown 编辑/管理工具。
+- [neuron](https://github.com/srid/neuron)
 - [Notion](https://www.notion.so/) - 新型笔记软件，以前活动拿了终身免费，基于 Web 实现，实际使用起来流畅度欠缺。
 - [nvALT](https://brettterpstra.com/projects/nvalt/) - 笔记软件，支持 Markdown，使用最久。
-- [Obsidian](https://obsidian.md/) - 支持 Zettelkasten（卡片盒） 笔记法的笔记管理软件，目前在用。
 - [Quiver](https://happenapps.com/) - 笔记软件，是我见到比较早支持 block 的。
 - [Simplenote](https://simplenote.com/) - [Automattic](https://automattic.com/) 出品的笔记软件，极简。
+- [TiddlyWiki](https://tiddlywiki.com/) - 单 HTML 文件。
 - [Ulysses](https://ulysses.app/) - Markdown 编辑/管理工具。
+
+### Roam Like / Networked
+
+- [Athens Research](https://github.com/athensresearch/athens) - [Twitter](https://twitter.com/AthensResearch)
+- [Dendron](https://dendron.so/) - 基于 VSCode。
+- [Foam](https://foambubble.github.io/foam/) - 基于 VSCode。
+- [Leo](https://leoeditor.com/)
+- [Logseq](https://logseq.com/)
+- [Nodebook](https://nodebook.io)
+- [Obsidian](https://obsidian.md/) - 支持 Zettelkasten（卡片盒） 笔记法的笔记管理软件，目前在用。
+- [Org-roam](https://www.orgroam.com/) - Emacs 用户可以尝试下。
+- [RemNote](https://www.remnote.io/)
+- [Roam Research](https://roamresearch.com/)
+- [TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - 基于 TiddlyWiki。
 
 ## Password Managers
 
@@ -915,7 +931,7 @@ TODO: 待补充。
 - [stormssh](https://github.com/emre/storm) - SSH 管理工具，后来还是环自己结合 fzf 写的 zsh [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh) 了。
 - [xxh-xxh](https://github.com/xxh/xxh) - 把本地的 shell 通过 SSH 带到远程服务器。
 
-## Task Management/To-Do Lists
+## Task Management / To-Do Lists
 
 - [Microsoft To Do](https://to-do.microsoft.com/) - 任务管理软件，微软把 Wunderlist 收购废掉后出了这个。
 - [TaskPaper](https://www.taskpaper.com/) - 任务管理，纯文本，类似的还有 [Todo.txt](http://todotxt.org/)
