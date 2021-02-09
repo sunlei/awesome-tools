@@ -14,6 +14,7 @@
 - [Cheat Sheet](#cheat-sheet)
 - [Chrome Extensions](#chrome-extensions)
 - [CI/CD](#cicd)
+    - [Dependency Management](#dependency-management)
 - [Cloud Storage](#cloud-storage)
 - [Collaboration Software / Wiki](#collaboration-software--wiki)
 - [Command Line](#command-line)
@@ -181,6 +182,23 @@ TODO: 待补充说明。
     - [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng)
     - [rust-lang/homu](https://github.com/rust-lang/homu)
     - [servo/homu](https://github.com/servo/homu)
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+
+### Dependency Management
+
+- [bundler-audit](https://github.com/rubysec/bundler-audit)
+- [bundlesize](https://github.com/siddharthkp/bundlesize)
+- [BundleWatch](https://bundlewatch.io/#/)
+- [david-dm](https://david-dm.org/)
+- [Dependabot](https://dependabot.com/) - 被 Github 收购了。
+    - [dependabot-core](https://github.com/dependabot/dependabot-core)
+    - [dependabot-script](https://github.com/dependabot/dependabot-script)
+- [Dependency Scanning | GitLab](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
+- [gemnasium · GitLab](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium)
+- [Greenkeeper](https://greenkeeper.io/)
+- [Python Dependency Management](https://pyup.io/)
+- [renovate](https://github.com/renovatebot/renovate) - 很强大，公司内部的项目基本都在用这个做依赖的升级管理。
+- [retire.js](https://github.com/RetireJS/retire.js)
 
 ## Cloud Storage
 
@@ -204,6 +222,7 @@ TODO: 待补充说明。
 ## Command Line
 
 - [ack](https://beyondgrep.com/) - 命令行代码搜索工具，类似 grep。
+- [alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line.
 - [aliyun-cli](https://github.com/aliyun/aliyun-cli) - 阿里云 CLI。
 - [autojump](https://github.com/wting/autojump) - 加强 cd 命令。
 - [aws-shell](https://aws.amazon.com/cli/) - AWS 命令行工具，[开源](https://github.com/awslabs/aws-shell)。
@@ -243,7 +262,7 @@ TODO: 待补充说明。
 - [ncdu](https://dev.yorhel.nl/ncdu) - 加强版 du。
 - [neofetch](https://github.com/dylanaraps/neofetch) - 漂亮的系统信息获取工具。
 - [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
-- [noti](https://github.com/variadico/noti) - 从终端发送通知，例如当耗时命令执行完毕后，支持丰富的通知方式。
+- [noti](https://github.com/variadico/noti) - 从终端发送通知，例如当耗时命令执行完毕后，支持丰富的通知方式和众多服务。
 - [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker)。
 - [ossutil](https://github.com/aliyun/ossutil) - 阿里云 OSS 命令行工具。
 - [p7zip](http://p7zip.sourceforge.net/) - 7-Zip
@@ -270,6 +289,8 @@ TODO: 待补充说明。
 - [z](https://github.com/rupa/z) - 智能化 cd。
 - [z.lua](https://github.com/skywind3000/z.lua) - 智能化 cd。
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - 智能化 cd。
+- [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ZSH plugin that automatically sends out a notification when a long running task has completed.
+- [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 
 ### Rewritten in Rust
 
