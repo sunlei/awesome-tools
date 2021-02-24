@@ -38,6 +38,7 @@
 - [Games](#games)
 - [Git](#git)
 - [Github](#github)
+- [GUI Automation](#gui-automation)
 - [HTTP/S Debug](#https-debug)
 - [Identity Management](#identity-management)
 - [Image Optimizers](#image-optimizers)
@@ -88,7 +89,6 @@ TODO: 待补充。
 ## Automation
 
 - [Ansible](https://www.ansible.com/) - IT 自动化工具。
-- [AutoIt](https://www.autoitscript.com/site/) - 类按键精灵，用这个实现过不少东西，还有一些 GUI。
 - [bake-cli](https://github.com/kennethreitz-archive/bake) - 加强版 Make。
 - [Fabric](https://www.fabfile.org/) - SSH 自动化工具。
 - [GNU Make](https://www.gnu.org/software/make/)
@@ -590,6 +590,27 @@ TODO: 待补充。
 - [grip](https://github.com/joeyespo/grip) - GitHub Readme 预览工具。
 - [Lepton](http://hackjutsu.com/Lepton/) - GitHub Gist 桌面管理工具。
 
+## GUI Automation
+
+- [appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
+- [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [AutoHotkey](https://www.autohotkey.com/)
+- [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [AutoIt](https://www.autoitscript.com/site/) - 类按键精灵，用这个实现过不少东西，还有一些 GUI。
+- [autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) - A simple, cross-platform GUI automation module for Rust.
+- [autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
+- [casperjs](https://github.com/casperjs/casperjs) - 停止维护了。
+- [cobra](https://github.com/ldtp/cobra) - Windows version of Linux Desktop Testing Project
+- [ldtp](https://ldtp.freedesktop.org/wiki/)
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [pyatom](https://github.com/pyatom/pyatom) - Python Automated Testing on Mac
+- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings.
+- [pyautoit](https://github.com/jacexh/pyautoit) - Python binding for AutoItX3.dll
+- [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation @vcaesar
+- [Simulate input - Rosetta Code](https://rosettacode.org/wiki/Simulate_input)
+
 ## HTTP/S Debug
 
 - [Burp Suite](https://portswigger.net/burp) - 用于 Web 安全测试的图形化工具。
@@ -897,6 +918,7 @@ TODO: 待补充。
 - [DepHell](https://github.com/dephell/dephell)
 - [PDM](https://pdm.fming.dev/)
 - [pip-tools](https://github.com/jazzband/pip-tools)
+- [pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 
 ### Packages
 
