@@ -93,7 +93,9 @@ TODO: 待补充。
 - [Fabric](https://www.fabfile.org/) - SSH 自动化工具。
 - [GNU Make](https://www.gnu.org/software/make/)
 - [Hammerspoon](https://www.hammerspoon.org/) - 基于 Lua 的自动化工具，比如窗口管理之类的。
+- [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [just](https://github.com/casey/just) - 类似 make。
+- [mmake](https://github.com/tj/mmake) - Modern Make
 - [xmake](https://xmake.io/) - 类似 make。
 
 ## Backup
@@ -899,8 +901,11 @@ TODO: 待补充。
 ### Packages
 
 - [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - 支持 Jira、Jira Service Desk、Confluence、BitBucket、Bamboo、Crowd。
+- [dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation
+- [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [pycontribs/confluence](https://github.com/pycontribs/confluence) - 不维护了。
 - [pycontribs/jira](https://github.com/pycontribs/jira)
+- [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 
 ## Regular Expressions
 
