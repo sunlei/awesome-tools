@@ -36,6 +36,7 @@
 - [Finance](#finance)
 - [Fonts](#fonts)
 - [Games](#games)
+- [General Purpose Preprocessor](#general-purpose-preprocessor)
 - [Git](#git)
 - [Github](#github)
 - [GUI Automation](#gui-automation)
@@ -95,6 +96,7 @@ TODO: 待补充。
 - [Hammerspoon](https://www.hammerspoon.org/) - 基于 Lua 的自动化工具，比如窗口管理之类的。
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [just](https://github.com/casey/just) - 类似 make。
+- [mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [mmake](https://github.com/tj/mmake) - Modern Make
 - [xmake](https://xmake.io/) - 类似 make。
 
@@ -368,6 +370,14 @@ TODO: 待补充。
 - [Composer](https://getcomposer.org/) - PHP 的依赖管理工具。
 - [Conftest](https://github.com/open-policy-agent/conftest) - 配置检测工具，还未深入使用，参考 [Open Policy Agent](https://www.openpolicyagent.org/)。
 - [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - 根据模板创建新项目。
+    - [battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
+    - [cruft](https://github.com/cruft/cruft/) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
+    - [cupper](https://github.com/senseyeio/cupper) - Update cookiecutter projects
+    - [Issue #1004 · cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter/issues/1004)
+    - [Issue #784 · cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter/issues/784)
+    - [python-cookiepatcher](https://github.com/ionelmc/python-cookiepatcher) - Just a small shim around cookiecutter that alters a bit the CLI to work better when reapplying templates to existing projects.
+    - [scaraplate](https://github.com/rambler-digital-solutions/scaraplate) - Scaraplate is a wrapper around cookiecutter which allows to repeatedly rollup project templates onto concrete projects.
+- [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [Dash](https://kapeli.com/dash) - API 文档查看工具。
 - [DevDocs](https://devdocs.io/) - API 文档查看工具，[开源](https://github.com/freeCodeCamp/devdocs)。
 - [Developer Color Picker](https://download.panic.com/picker/index.html) - 取色器。
@@ -553,6 +563,32 @@ TODO: 待补充。
 - [Terraria（泰拉瑞亚）](https://store.steampowered.com/app/105600/Terraria/) - 很多人说是 2D 版的 Minecraft。强烈推荐，我的游戏时间 200 多小时。
 - [YORG.io](https://yorg.io/) - 网页版的塔防。
 - [YORG.io 3](https://yorg3.io/)
+
+## General Purpose Preprocessor
+
+- [bash-templater](https://github.com/vicentebolea/bash-templater) - Simplest Ever Template Engine (15 lines of BASH)
+- [cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
+- [Filepp](https://www-users.york.ac.uk/~dm26/filepp/) - The generic file preprocessor
+- [FMPP](http://fmpp.sourceforge.net/) - Text file preprocessor (HTML preprocessor)
+- [GNU M4](https://www.gnu.org/software/m4/)
+- [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+- [GPP | Tristan Miller](https://logological.org/gpp) - GPP is a general-purpose preprocessor with customizable syntax, suitable for a wide range of preprocessing tasks.
+    - [gpp](https://github.com/logological/gpp/)
+- [hero](https://github.com/shiyanhui/hero) - A handy, fast and powerful go template engine.
+- [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
+- [jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - CLI for Jinja2
+- [moban](https://github.com/moremoban/moban) - General purpose static text generator using Jinja2 and other python template engines. `Jinja2`
+- [Mustache processor](https://mustache.github.io/mustache.1.html)
+- [MyDef](https://github.com/hzhou/MyDef) - Programming in the next paradigm -- your way
+- [PP](http://christophe.delord.free.fr/pp/) - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
+    - [pp](https://github.com/CDSoft/pp)
+- [pyexpander](https://pyexpander.sourceforge.io/)
+- [renderest](https://github.com/relaxdiego/renderest) - Way better than your average renderer.
+- [sigil](https://github.com/gliderlabs/sigil) - Standalone string interpolator and template processor
+- [t4](https://github.com/mono/t4) - T4 text templating engine
+- [Text Preprocessor](https://firefox-source-docs.mozilla.org/build/buildsystem/preprocessor.html)
+- [tiller](https://github.com/markround/tiller) - A dynamic configuration file generation tool, particularly useful with Docker containers
+- [yasha](https://github.com/kblomqvist/yasha) - A command-line tool to render Jinja templates for great good. `Jinja2`
 
 ## Git
 
@@ -1182,6 +1218,7 @@ TODO: 待补充说明。
 - [Moom](https://manytricks.com/moom/)
 - [Phoenix](https://github.com/kasper/phoenix/)
 - [Rectangle](https://rectangleapp.com/)
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 
 ## Workflow Automation
 
