@@ -377,7 +377,7 @@ TODO: 待补充。
     - [Issue #784 · cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter/issues/784)
     - [python-cookiepatcher](https://github.com/ionelmc/python-cookiepatcher) - Just a small shim around cookiecutter that alters a bit the CLI to work better when reapplying templates to existing projects.
     - [scaraplate](https://github.com/rambler-digital-solutions/scaraplate) - Scaraplate is a wrapper around cookiecutter which allows to repeatedly rollup project templates onto concrete projects.
-- [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+- [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. `Jinja2`
 - [Dash](https://kapeli.com/dash) - API 文档查看工具。
 - [DevDocs](https://devdocs.io/) - API 文档查看工具，[开源](https://github.com/freeCodeCamp/devdocs)。
 - [Developer Color Picker](https://download.panic.com/picker/index.html) - 取色器。
@@ -387,6 +387,8 @@ TODO: 待补充。
 - [doc8](https://github.com/pycqa/doc8) - reStructuredText 文档 lint 工具。
 - [Docker](https://www.docker.com/)
 - [Funcraft](https://github.com/alibaba/funcraft) - 阿里云函数计算开发工具。
+- [git-common-sync](https://github.com/wtsi-hgi/git-common-sync) - A tool to synchronise common files between Git repositories
+- [git-subrepo](https://github.com/ingydotnet/git-subrepo)
 - [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/)
 - [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/)
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Go lint 工具。
@@ -404,6 +406,7 @@ TODO: 待补充。
 - [Kubetail](https://github.com/johanhaleby/kubetail) - Kubernetes 日志查看工具。
 - [lens](https://k8slens.dev/) - Kubernetes 管理工具/IDE。
 - [loc](https://github.com/cgag/loc) - 代码统计工具。
+- [modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories.
 - [myrepos](https://myrepos.branchable.com/) - 多仓库管理工具。
 - [n](https://github.com/tj/n) - Node.js 版本管理工具。
 - [Nexus Repository](https://www.sonatype.com/nexus/repository-pro) - 各种包的私有仓库。
@@ -414,7 +417,9 @@ TODO: 待补充。
 - [nvm](https://github.com/nvm-sh/nvm) - Node.js 版本管理工具。
 - [oss-browser](https://help.aliyun.com/document_detail/61872.html) - 阿里云 OSS 图形化管理工具。
 - [pacparser](https://github.com/manugarg/pacparser) - PAC 解析工具。
+- [pdksync](https://github.com/puppetlabs/pdksync) - Manage large sets of modules with automation built on top of PDK
 - [podman](https://podman.io/) - 容器管理工具。
+- [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included. 类似 Cookiecutter，但可以 `Easy Updating`。
 - [python-language-server](https://github.com/palantir/python-language-server) - Python 的 [Language Server Protocol](https://github.com/Microsoft/language-server-protocol) 实现。
 - [rbenv](https://github.com/rbenv/rbenv) - Ruby 版本管理工具。
 - [rdbtools](https://github.com/sripathikrishnan/redis-rdb-tools) - redis rdb 文件解析工具。
@@ -438,6 +443,7 @@ TODO: 待补充。
 - [webhook](https://github.com/adnanh/webhook) - 方便的创建 webhook endpoints，自己基于这个实现了 GitLab 和 Jira 的 bot。
 - [wrk](https://github.com/wg/wrk) - HTTP 压力测试。
 - [Yarn](https://yarnpkg.com/) - JavaScript 包管理，类似 NPM。
+- [yehua](https://github.com/moremoban/yehua) - Make a project in 1 minute from a project template but keep updating it forever. 类似 Cookiecutter，但支持更新。
 - [yq](https://github.com/kislyuk/yq) - 命令行下的 YAML 和 XML 解析工具。
 
 ## Docker
