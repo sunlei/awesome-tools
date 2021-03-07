@@ -240,7 +240,7 @@ TODO: 待补充说明。
 - [Dotbot](https://github.com/anishathalye/dotbot) - dotfiles 管理工具，好用。
 - [duf](https://github.com/muesli/duf) - 加强版 du。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
-- [exa](https://the.exa.website/) - 加强版 ls，我已用来替换了 ls。
+- [exa](https://the.exa.website/) - 加强版 ls。
 - [exiftool](https://exiftool.org/) - 命令行下的 EXIF 查看、编辑工具。
 - [fasd](https://github.com/clvv/fasd) - 目录快速跳转。
 - [fd](https://github.com/sharkdp/fd) - 加强版 find。
@@ -248,18 +248,21 @@ TODO: 待补充说明。
 - [fping](https://fping.org/) - 加强版 ping。
 - [fselect](https://github.com/jhspetersson/fselect) - 用 SQL 查找文件。
 - [fx](https://github.com/antonmedv/fx) - JSON 处理工具。
-- [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我还基于 fzf 写了 zsh 的 SSH [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh)。
-- [fzy](https://github.com/jhawthorn/fzy) - 类似 fzf。
+- [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索工具，神器，我基于 fzf 写了 zsh 的 SSH [插件(zsh-ssh)](https://github.com/sunlei/zsh-ssh)。A command-line fuzzy finder.
+- [fzy](https://github.com/jhawthorn/fzy) - 类似 fzf。A simple, fast fuzzy finder for the terminal.
 - [gnu-sed](https://www.gnu.org/software/sed/) - 在 macOS 下使用 GNU sed。
+- [gof](https://github.com/mattn/gof)
 - [gping](https://github.com/orf/gping) - 可视化的 ping。
 - [grc](https://github.com/garabik/grc) - 让一些命令的输出变为彩色。
 - [gron](https://github.com/tomnomnom/gron) - JSON 查看工具。
+- [hf](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
 - [hping](http://www.hping.org/) - 加强版 ping。
 - [htop](https://htop.dev/) - 加强版 top。
+- [icepick](https://github.com/felipesere/icepick) - Selecta reimplemented in Rust
 - [libimobiledevice](https://libimobiledevice.org/) - iOS 设备管理工具。
 - [lnav](https://lnav.org/) - 命令行下的日志查看工具，支持高亮。
 - [lrzsz](https://www.ohse.de/uwe/software/lrzsz.html) - rz/sz 命令。
-- [lsd](https://github.com/Peltoche/lsd) - 加强版 ls，但还是更喜欢 exa。
+- [lsd](https://github.com/Peltoche/lsd) - 加强版 ls，从 exa 换过来了。
 - [mas](https://github.com/mas-cli/mas) - Mac App Store CLI.
 - [McFly](https://github.com/cantino/mcfly) - Rust 写的 ctrl-r 加强工具。
 - [mobiledevice](https://github.com/imkira/mobiledevice) - 命令行下的 iOS 设备管理工具，很久没更新了，不知道现在还好不好用。
@@ -268,10 +271,14 @@ TODO: 待补充说明。
 - [neofetch](https://github.com/dylanaraps/neofetch) - 漂亮的系统信息获取工具。
 - [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
 - [noti](https://github.com/variadico/noti) - 从终端发送通知，例如当耗时命令执行完毕后，支持丰富的通知方式和众多服务。
+- [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker)。
 - [ossutil](https://github.com/aliyun/ossutil) - 阿里云 OSS 命令行工具。
 - [p7zip](http://p7zip.sourceforge.net/) - 7-Zip
 - [pandoc](https://pandoc.org/) - 全能的文档格式转换工具，神器。
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+- [pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
 - [pidcat](https://github.com/JakeWharton/pidcat) - Android logcat 的加强版。
 - [prettyping](https://denilson.sa.nom.br/prettyping/) - 让 ping 的输出漂亮一些。
 - [procs](https://github.com/dalance/procs) - 加强版 ps。
@@ -280,6 +287,8 @@ TODO: 待补充说明。
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 比 grep 更好用。
 - [sampler](https://sampler.dev/) - 终端下的可视化工具。
 - [sd](https://github.com/chmln/sd) - 加强版 sed。
+- [selecta](https://github.com/garybernhardt/selecta/) - A fuzzy text selector for files and anything else you need to select.
+- [sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - [Sentry](https://sentry.io/) 的 CLI 工具。
 - [sift](https://sift-tool.org/) - 类似 grep。
 - [sk](https://github.com/lotabout/skim) - 终端下的模糊查找工具，类似 fzf。
@@ -1047,9 +1056,11 @@ TODO: 待补充。
 
 ## Terminal
 
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [byobu](https://www.byobu.org/) - 终端复用工具。
 - [Hyper](https://hyper.is/) - 终端模拟器，基于 Electron，[开源](https://github.com/vercel/hyper)。
 - [iTerm](https://iterm2.com/) - 终端模拟器。
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - 解决 macOS 下使用 tmux 时有些命令失效的问题。
 - [Terminus](https://eugeny.github.io/terminus/) - 终端模拟器，[开源](https://github.com/Eugeny/terminus)。
 - [tmux](https://github.com/tmux/tmux) - 终端复用工具。
