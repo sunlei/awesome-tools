@@ -796,18 +796,22 @@ TODO: 待补充。
 
 ### Cron Job
 
-- [bandwhich](https://github.com/imsnif/bandwhich) - 流量查看工具。
+- [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [CronAlarm](https://www.cronalarm.com/)
 - [Cronhub](https://cronhub.io/)
 - [Cronitor](https://cronitor.io) - Cron Monitoring & Uptime Monitoring for Busy Developers
 - [Cronly](https://cronly.app/)
 - [Dead Man's Snitch](https://deadmanssnitch.com/)
+- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [Free Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/) - 开源。
     - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) - A cron monitoring tool written in Python & Django
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
+- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle#single-server) - A simple, distributed task scheduler and runner with a web based UI.
+- [ouqiang/gocron](https://github.com/ouqiang/gocron)
 - [Power Cron](https://powercron.eu/)
 - [Pulse](https://www.webgazer.io/pulse)
 - [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
+- [shunfei/cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 
 ## Music
 
