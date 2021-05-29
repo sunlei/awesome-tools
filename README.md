@@ -808,7 +808,7 @@ TODO: 待补充。
 - [Free Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/) - 开源。
     - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) - A cron monitoring tool written in Python & Django
 - [gocron](https://github.com/ouqiang/gocron)
-- [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
+- [minicron](https://github.com/jamesrwhite/minicron) - Monitor your cron jobs
 - [Power Cron](https://powercron.eu/)
 - [Pulse](https://www.webgazer.io/pulse)
 - [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
