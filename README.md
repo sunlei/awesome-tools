@@ -29,6 +29,7 @@
 - [Documentation Generator](#documentation-generator)
 - [Editors / IDEs](#editors--ides)
 - [Email](#email)
+- [File Encryption](#file-encryption)
 - [File Managers](#file-managers)
 - [File Organization](#file-organization)
 - [File Sharing and Synchronization](#file-sharing-and-synchronization)
@@ -193,7 +194,7 @@ TODO: 待补充说明。
 
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
 - [bundlesize](https://github.com/siddharthkp/bundlesize)
-- [BundleWatch](https://bundlewatch.io/#/)
+- [BundleWatch](https://bundlewatch.io/)
 - [david-dm](https://david-dm.org/)
 - [Dependabot](https://dependabot.com/) - 被 Github 收购了。
     - [dependabot-core](https://github.com/dependabot/dependabot-core)
@@ -382,8 +383,6 @@ TODO: 待补充。
     - [battenberg](https://github.com/zillow/battenberg) - Providing updates to cookiecutter projects.
     - [cruft](https://github.com/cruft/cruft/) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
     - [cupper](https://github.com/senseyeio/cupper) - Update cookiecutter projects
-    - [Issue #1004 · cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter/issues/1004)
-    - [Issue #784 · cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter/issues/784)
     - [python-cookiepatcher](https://github.com/ionelmc/python-cookiepatcher) - Just a small shim around cookiecutter that alters a bit the CLI to work better when reapplying templates to existing projects.
     - [scaraplate](https://github.com/rambler-digital-solutions/scaraplate) - Scaraplate is a wrapper around cookiecutter which allows to repeatedly rollup project templates onto concrete projects.
 - [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. `Jinja2`
@@ -495,6 +494,32 @@ TODO: 待补充。
 - [Mailplane](https://mailplaneapp.com/) - 基于 Web 的 Gmail 桌面客户端。
 - [Mimestream](https://mimestream.com/) - Gmail 桌面客户端。
 - [Spark](https://sparkmailapp.com/) - 邮件客户端。
+
+## File Encryption
+
+- [AES Crypt](https://www.aescrypt.com/) - Advanced File Encryption
+- [AxCrypt](https://www.axcrypt.net/) - File Security Made Easy
+- [Boxcryptor](https://www.boxcryptor.com/en/) - No. 1 Cloud Encryption Made in Germany
+- [CryFS](https://www.cryfs.org/) - A cryptographic filesystem for the cloud
+    - [Comparison of encrypted cloud storage solutions](https://www.cryfs.org/comparison)
+- [Cryptomator](https://cryptomator.org/) - Free Cloud Encryption for Dropbox & Co
+- [CryptSync](https://tools.stefankueng.com/CryptSync.html)
+- [eCryptfs](https://www.ecryptfs.org/)
+    - [eCryptfs Security Audit](https://defuse.ca/audits/ecryptfs.htm)
+- [EncFS](https://github.com/vgough/encfs) - an Encrypted Filesystem for FUSE.
+    - [EncFS Security Audit](https://defuse.ca/audits/encfs.htm)
+- [Encrypto](https://macpaw.com/encrypto) - Securely encrypt your files before sending them to friends or coworkers.
+- [fscrypt](https://github.com/google/fscrypt) - Go tool for managing Linux filesystem encryption
+- [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
+    - [Comparison with Other Projects - gocryptfs](https://nuetzlich.net/gocryptfs/comparison/)
+    - [gocryptfs-cryptography-design-audit.pdf](https://defuse.ca/downloads/audits/gocryptfs-cryptography-design-audit.pdf)
+- [gpgdir](http://www.cipherdyne.org/gpgdir/) - Recursive direction encryption
+- [securefs](https://github.com/netheril96/securefs) - Filesystem in userspace (FUSE) with transparent authenticated encryption
+- [SiriKali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to cryfs,gocryptfs,securefs,ecryptfs and encfs
+- [Tresorit](https://tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses
+- [TrueCrypt](http://truecrypt.sourceforge.net/)
+- [VeraCrypt](https://veracrypt.fr/en/Home.html) - Free Open source disk encryption with strong security for the Paranoid
+- [zuluCrypt](http://mhogomchungu.github.io/zuluCrypt/) - zuluCrypt is a simple, feature rich and powerful solution for hard drives encryption.
 
 ## File Managers
 
@@ -798,7 +823,7 @@ TODO: 待补充。
 
 - [CronAlarm](https://www.cronalarm.com/)
 - [Cronhub](https://cronhub.io/)
-- [Cronicle](https://github.com/jhuckaby/Cronicle#single-server) - A simple, distributed task scheduler and runner with a web based UI.
+- [Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [Cronitor](https://cronitor.io) - Cron Monitoring & Uptime Monitoring for Busy Developers
 - [Cronly](https://cronly.app/)
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
@@ -812,6 +837,7 @@ TODO: 待补充。
 - [Power Cron](https://powercron.eu/)
 - [Pulse](https://www.webgazer.io/pulse)
 - [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
+- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
 ## Music
 
