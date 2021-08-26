@@ -78,6 +78,7 @@
 - [Testing](#testing)
 - [Text Expander](#text-expander)
 - [Time Tracking](#time-tracking)
+- [URL Shortener](#url-shortener)
 - [Utilities](#utilities)
 - [VSCode Extensions](#vscode-extensions)
 - [Window Management](#window-management)
@@ -498,6 +499,7 @@ TODO: 待补充。
 ## File Encryption
 
 - [AES Crypt](https://www.aescrypt.com/) - Advanced File Encryption
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [AxCrypt](https://www.axcrypt.net/) - File Security Made Easy
 - [Boxcryptor](https://www.boxcryptor.com/en/) - No. 1 Cloud Encryption Made in Germany
 - [CryFS](https://www.cryfs.org/) - A cryptographic filesystem for the cloud
@@ -854,17 +856,21 @@ TODO: 待补充。
 - [AriaNg](https://github.com/mayswind/AriaNg) - aria2 的 Web 管理工具
     - [AriaNg Native](https://github.com/mayswind/AriaNg-Native) - 基于 [Electron](https://github.com/electron/electron) 实现的 AriaNg 桌面版。
 - [axel](https://github.com/axel-download-accelerator/axel) - 多线程下载工具。
+- [chinaz ping](http://ping.chinaz.com/)
 - [Folx](https://mac.eltima.com/download-manager.html) - 下载工具。
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最实用的 中国大陆 IP 段 + GeoIP2 数据库。
 - [httpie](https://httpie.io/) - 更友好的 curl。
 - [httping](https://www.vanheusden.com/httping/) - HTTP ping.
 - [iperf3](https://github.com/esnet/iperf) - 带宽测试工具。
 - [ipfs](https://ipfs.io/)
+- [IPIP.NET Ping](https://tools.ipip.net/newping.php)
 - [Motrix](https://motrix.app/) - 下载工具，基于 aria2，[开源](https://github.com/agalwood/Motrix)。
+- [MTR.sh Looking Glass](https://mtr.sh/)
 - [NetSpot](https://www.netspotapp.com/) - WiFi 工具。
 - [ngrep](https://github.com/jpr5/ngrep) - 网络 grep。
 - [ntopng](https://www.ntop.org/products/traffic-analysis/ntop/)
 - [ping.pe](https://ping.pe/)
+- [Ping.Sx](https://ping.sx/)
 - [Speedtest CLI](https://www.speedtest.net/apps/cli) - [Speedtest](https://www.speedtest.net/) 的官方命令行版。
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - [Speedtest](https://www.speedtest.net/) 的命令行版。
 - [tcping](https://github.com/mkirchner/tcping) - TCP ping.
@@ -1112,6 +1118,17 @@ TODO: 待补充。
 
 - [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) - 开源可自建。
 - [traggo/server](https://github.com/traggo/server) - 开源可自建。
+
+## URL Shortener
+
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [polr](https://github.com/cydrobolt/polr) - A modern, powerful, and robust URL shortener
+- [shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+- [UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
+- [YOURLS](https://yourls.org/) - Your Own URL Shortener
+    - [YOURLS](https://github.com/YOURLS/YOURLS)
+- [zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces.
 
 ## Utilities
 
