@@ -851,8 +851,10 @@ TODO: 待补充。
 
 - [grafana-wizzy/wizzy](https://github.com/grafana-wizzy/wizzy) - **Unmaintained.** Manage & automate Grafana with easy wizzy
 - [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
+- [grafyaml](https://docs.openstack.org/infra/grafyaml/)
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) - Grafana Dashboard Manager
+- [Provision dashboards and data sources | Grafana Labs](https://grafana.com/tutorials/provision-dashboards-and-data-sources/)
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 
