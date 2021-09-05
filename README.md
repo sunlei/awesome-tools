@@ -21,6 +21,7 @@
     - [Rewritten in Rust](#rewritten-in-rust)
 - [Communication](#communication)
 - [Content Management Systems](#content-management-systems)
+- [Cron Job](#cron-job)
 - [Data Visualization and Analytics](#data-visualization-and-analytics)
 - [Databases](#databases)
 - [Design and Product](#design-and-product)
@@ -50,7 +51,8 @@
 - [Markdown](#markdown)
 - [Media](#media)
 - [Monitoring](#monitoring)
-    - [Cron Job](#cron-job)
+    - [Grafana](#grafana)
+        - [Dashboards as Code](#dashboards-as-code)
 - [Music](#music)
 - [Networking](#networking)
 - [Note-taking](#note-taking)
@@ -333,6 +335,26 @@ TODO: 待补充。
 - [Commento](https://commento.io/)
     - [Introduction](https://docs.commento.io/)
 - [Flarum](https://flarum.org/) - 用 PHP 实现的 [开源](https://github.com/flarum/flarum) 论坛程序。
+
+## Cron Job
+
+- [CronAlarm](https://www.cronalarm.com/)
+- [Cronhub](https://cronhub.io/)
+- [Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
+- [Cronitor](https://cronitor.io) - Cron Monitoring & Uptime Monitoring for Busy Developers
+- [Cronly](https://cronly.app/)
+- [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
+- [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
+- [Dead Man's Snitch](https://deadmanssnitch.com/)
+- [dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [Free Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/) - 开源。
+    - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) - A cron monitoring tool written in Python & Django
+- [gocron](https://github.com/ouqiang/gocron)
+- [minicron](https://github.com/jamesrwhite/minicron) - Monitor your cron jobs
+- [Power Cron](https://powercron.eu/)
+- [Pulse](https://www.webgazer.io/pulse)
+- [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
+- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
 ## Data Visualization and Analytics
 
@@ -821,25 +843,18 @@ TODO: 待补充。
 - [Stats](https://github.com/exelban/stats) - 开源的系统监控工具，类似 iStat Menus。
 - [ytop](https://github.com/cjbassi/ytop) - Rust 写的系统监控工具，类似 top、htop，不维护了。
 
-### Cron Job
+### Grafana
 
-- [CronAlarm](https://www.cronalarm.com/)
-- [Cronhub](https://cronhub.io/)
-- [Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
-- [Cronitor](https://cronitor.io) - Cron Monitoring & Uptime Monitoring for Busy Developers
-- [Cronly](https://cronly.app/)
-- [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
-- [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
-- [Dead Man's Snitch](https://deadmanssnitch.com/)
-- [dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
-- [Free Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/) - 开源。
-    - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) - A cron monitoring tool written in Python & Django
-- [gocron](https://github.com/ouqiang/gocron)
-- [minicron](https://github.com/jamesrwhite/minicron) - Monitor your cron jobs
-- [Power Cron](https://powercron.eu/)
-- [Pulse](https://www.webgazer.io/pulse)
-- [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [Grafana](https://grafana.com/) - The open observability platform
+
+#### Dashboards as Code
+
+- [grafana-wizzy/wizzy](https://github.com/grafana-wizzy/wizzy) - **Unmaintained.** Manage & automate Grafana with easy wizzy
+- [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
+- [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
+- [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) - Grafana Dashboard Manager
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
+- [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 
 ## Music
 
