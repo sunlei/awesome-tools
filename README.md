@@ -118,7 +118,17 @@ TODO: 待补充。
 
 ## Bastion Host
 
+- [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
+- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
+- [AWS Systems Manager Session Manager - AWS Systems Manager](https://docs.aws.amazon.com/zh_cn/systems-manager/latest/userguide/session-manager.html)
+- [Bastillion](https://www.bastillion.io/) - Web-Based Bastion Host and SSH Key Management
+- [cloudposse/bastion](https://github.com/cloudposse/bastion) - 🔒Secure Bastion implemented as Docker Container running Alpine Linux with Google Authenticator & DUO MFA support
 - [JumpServer](https://www.jumpserver.org/) - [开源](https://github.com/jumpserver)。
+- [moul/sshportal](https://github.com/moul/sshportal) - simple, fun and transparent SSH (and telnet) bastion server
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [Set Up SSH with Advanced Server Access | Okta](https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/setup/ssh.htm)
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [Smallstep SSH](https://smallstep.com/sso-ssh/) - Single Sign-On SSH With Zero Key Management
 - [Teleport](https://goteleport.com/) - [开源](https://github.com/gravitational/teleport)。
 
 ## BitTorrent
@@ -233,15 +243,31 @@ TODO: 待补充说明。
 - [ack](https://beyondgrep.com/) - 命令行代码搜索工具，类似 grep。
 - [alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line.
 - [aliyun-cli](https://github.com/aliyun/aliyun-cli) - 阿里云 CLI。
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [autojump](https://github.com/wting/autojump) - 加强 cd 命令。
 - [aws-shell](https://aws.amazon.com/cli/) - AWS 命令行工具，[开源](https://github.com/awslabs/aws-shell)。
 - [awscli](https://github.com/aws/aws-cli) - AWS 命令行工具。
 - [bat](https://github.com/sharkdp/bat) - 支持高亮的 cat，我已经用来替换 cat。
 - [bat-extras](https://github.com/eth-p/bat-extras) - 基于 [bat](https://github.com/sharkdp/bat) 的几个工具。
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ccat](https://github.com/owenthereal/ccat) - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat)。
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [ClementTsang/bottom](https://github.com/clementtsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [coreutils](https://www.gnu.org/software/coreutils/) - 在 macOS 下使用 GNU Core Utilities。
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) - Find and replace text in source files
 - [dog](https://dns.lookup.dog/) - 加强版的 dig，[开源](https://github.com/ogham/dog)。
 - [Dotbot](https://github.com/anishathalye/dotbot) - dotfiles 管理工具，好用。
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [duf](https://github.com/muesli/duf) - 加强版 du。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
 - [exa](https://the.exa.website/) - 加强版 ls。
@@ -263,24 +289,33 @@ TODO: 待补充说明。
 - [hping](http://www.hping.org/) - 加强版 ping。
 - [htop](https://htop.dev/) - 加强版 top。
 - [icepick](https://github.com/felipesere/icepick) - Selecta reimplemented in Rust
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [libimobiledevice](https://libimobiledevice.org/) - iOS 设备管理工具。
 - [lnav](https://lnav.org/) - 命令行下的日志查看工具，支持高亮。
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [lrzsz](https://www.ohse.de/uwe/software/lrzsz.html) - rz/sz 命令。
 - [lsd](https://github.com/Peltoche/lsd) - 加强版 ls，从 exa 换过来了。
+- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [mas](https://github.com/mas-cli/mas) - Mac App Store CLI.
 - [McFly](https://github.com/cantino/mcfly) - Rust 写的 ctrl-r 加强工具。
 - [mobiledevice](https://github.com/imkira/mobiledevice) - 命令行下的 iOS 设备管理工具，很久没更新了，不知道现在还好不好用。
 - [mtr](https://www.bitwizard.nl/mtr/) - 加强版 traceroute。
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [ncdu](https://dev.yorhel.nl/ncdu) - 加强版 du。
 - [neofetch](https://github.com/dylanaraps/neofetch) - 漂亮的系统信息获取工具。
 - [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library，也包含几个实用的 HTTP/2 工具。
 - [noti](https://github.com/variadico/noti) - 从终端发送通知，例如当耗时命令执行完毕后，支持丰富的通知方式和众多服务。
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nvchecker](https://github.com/lilydjwg/nvchecker) - 检查各种软件更新的工具，我 [添加](https://github.com/lilydjwg/nvchecker/pull/126) 了 [Sparkle](https://sparkle-project.org/) 的支持后，配合 GitHub Actions 实现了 [更新通知服务](https://github.com/sunlei/nvchecker)。
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ossutil](https://github.com/aliyun/ossutil) - 阿里云 OSS 命令行工具。
 - [p7zip](http://p7zip.sourceforge.net/) - 7-Zip
+- [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [pandoc](https://pandoc.org/) - 全能的文档格式转换工具，神器。
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
 - [pidcat](https://github.com/JakeWharton/pidcat) - Android logcat 的加强版。
@@ -288,24 +323,46 @@ TODO: 待补充说明。
 - [procs](https://github.com/dalance/procs) - 加强版 ps。
 - [pup](https://github.com/EricChiang/pup) - 命令行下的 HTML 处理工具。
 - [q](https://harelba.github.io/q/) - 用 SQL 查询 CSV/TSV 文件。
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 比 grep 更好用。
+- [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [sampler](https://sampler.dev/) - 终端下的可视化工具。
 - [sd](https://github.com/chmln/sd) - 加强版 sed。
 - [selecta](https://github.com/garybernhardt/selecta/) - A fuzzy text selector for files and anything else you need to select.
 - [sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - [Sentry](https://sentry.io/) 的 CLI 工具。
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sift](https://sift-tool.org/) - 类似 grep。
 - [sk](https://github.com/lotabout/skim) - 终端下的模糊查找工具，类似 fzf。
 - [socat](http://www.dest-unreach.org/socat/) - 加强版 netcat。
+- [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
 - [terminal-notifier](https://github.com/julienXX/terminal-notifier) - 从终端发送通知，例如当耗时命令执行完毕后。
 - [The Fuck](https://github.com/nvbn/thefuck) - 帮你纠正命令的同时还能发泄下。
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
+- [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [trash](https://hasseg.org/trash/) - alias 到了 rm ，防止误删。
 - [tree](http://mama.indstate.edu/users/ice/tree/) - 目录结构输出。
 - [unar](https://theunarchiver.com/command-line) - [The Unarchiver](https://theunarchiver.com/) 的命令行版。
 - [unrar](https://www.rarlab.com/) - 命令行下的 rar 解压工具。
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [wchang22/LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [xsv](https://github.com/BurntSushi/xsv) - Rust 写的 CSV 处理工具。
 - [z](https://github.com/rupa/z) - 智能化 cd。
 - [z.lua](https://github.com/skywind3000/z.lua) - 智能化 cd。
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - 智能化 cd。
 - [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
@@ -851,7 +908,8 @@ TODO: 待补充。
 
 - [grafana-wizzy/wizzy](https://github.com/grafana-wizzy/wizzy) - **Unmaintained.** Manage & automate Grafana with easy wizzy
 - [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
-- [grafyaml](https://docs.openstack.org/infra/grafyaml/)
+- [grafyaml](https://docs.openstack.org/infra/grafyaml/) - grafyaml takes descriptions of Grafana dashboards in YAML format, and uses them to produce JSON formatted output suitable for direct import into Grafana.
+    - [opendev/grafyaml](https://opendev.org/opendev/grafyaml)
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) - Grafana Dashboard Manager
 - [Provision dashboards and data sources | Grafana Labs](https://grafana.com/tutorials/provision-dashboards-and-data-sources/)
@@ -962,12 +1020,37 @@ TODO: 待补充。
 ## Proxy and VPN
 
 - [3proxy](https://github.com/z3APA3A/3proxy)
+- [aramperes/onetun](https://github.com/aramperes/onetun) - Access your WireGuard network from anywhere
 - [clash](https://github.com/Dreamacro/clash) - 翻墙软件，有 [premium](https://github.com/Dreamacro/clash/releases/tag/premium) 版。
 - [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 实现的 macOS 下的客户端。
+- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
+- [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard-based VPN server and firewall
+- [gravitl/netmaker](https://github.com/gravitl/netmaker/) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
+- [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
+- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+- [OmniEdge](https://omniedge.io/)
+- [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [proxychains-ng](https://sourceforge.net/projects/proxychains-ng/) - 让命令行工具走代理。
+- [reddec/tinc-boot](https://github.com/reddec/tinc-boot) - Bootstrap your Tinc node quickly and easy
+- [seashell/drago](https://github.com/seashell/drago) - Securely connect anything with WireGuard® and manage all your networks from a single place.
 - [shadowsocks](https://github.com/shadowsocks)
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [Surge](https://nssurge.com/) - 官方定义「Advanced Network Toolbox for Mac & iOS」，但基本都是拿来翻墙，macOS 和 iOS 下都买了。
-- [WireGuard](https://www.wireguard.com/) - VPN。
+- [Tailscale](https://tailscale.com/) - Best VPN Service for Secure Networks. 基于 WireGuard。
+- [tinc](https://www.tinc-vpn.org/)
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [WeeJeWel/wg-easy](https://github.com/weejewel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel.
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+- [看雪安全接入](https://ksa.kanxue.com/)
 
 ## Proxy Rules And Scripts
 
