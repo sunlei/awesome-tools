@@ -18,7 +18,7 @@
 - [Cloud Storage](#cloud-storage)
 - [Collaboration Software / Wiki](#collaboration-software--wiki)
 - [Command Line](#command-line)
-    - [Like [jq](https://github.com/stedolan/jq)](#like-jqhttpsgithubcomstedolanjq)
+    - [Like jq](#like-jq)
     - [Rewritten in Rust](#rewritten-in-rust)
 - [Communication](#communication)
 - [Content Management Systems](#content-management-systems)
@@ -369,7 +369,7 @@ TODO: 待补充说明。
 - [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 
-### Like [jq](https://github.com/stedolan/jq)
+### Like jq
 
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching. It can also create new or transformed XML/HTML/JSON documents.
 - [charmparticle/xpe](https://github.com/charmparticle/xpe) - Finally, a commandline xpath tool for linux that is easy to use.
