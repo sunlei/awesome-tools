@@ -18,6 +18,7 @@
 - [Cloud Storage](#cloud-storage)
 - [Collaboration Software / Wiki](#collaboration-software--wiki)
 - [Command Line](#command-line)
+    - [Like [jq](https://github.com/stedolan/jq)](#like-jqhttpsgithubcomstedolanjq)
     - [Rewritten in Rust](#rewritten-in-rust)
 - [Communication](#communication)
 - [Content Management Systems](#content-management-systems)
@@ -262,6 +263,7 @@ TODO: 待补充说明。
 - [ClementTsang/bottom](https://github.com/clementtsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [coreutils](https://www.gnu.org/software/coreutils/) - 在 macOS 下使用 GNU Core Utilities。
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools/) - A list of command line tools for manipulating structured text data
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) - Find and replace text in source files
@@ -290,6 +292,7 @@ TODO: 待补充说明。
 - [htop](https://htop.dev/) - 加强版 top。
 - [icepick](https://github.com/felipesere/icepick) - Selecta reimplemented in Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [libimobiledevice](https://libimobiledevice.org/) - iOS 设备管理工具。
 - [lnav](https://lnav.org/) - 命令行下的日志查看工具，支持高亮。
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
@@ -321,7 +324,6 @@ TODO: 待补充说明。
 - [pidcat](https://github.com/JakeWharton/pidcat) - Android logcat 的加强版。
 - [prettyping](https://denilson.sa.nom.br/prettyping/) - 让 ping 的输出漂亮一些。
 - [procs](https://github.com/dalance/procs) - 加强版 ps。
-- [pup](https://github.com/EricChiang/pup) - 命令行下的 HTML 处理工具。
 - [q](https://harelba.github.io/q/) - 用 SQL 查询 CSV/TSV 文件。
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 比 grep 更好用。
@@ -366,6 +368,23 @@ TODO: 待补充说明。
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - 智能化 cd。
 - [zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+
+### Like [jq](https://github.com/stedolan/jq)
+
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching. It can also create new or transformed XML/HTML/JSON documents.
+- [charmparticle/xpe](https://github.com/charmparticle/xpe) - Finally, a commandline xpath tool for linux that is easy to use.
+- [coderobe/hq](https://github.com/coderobe/hq) - A HTML processor inspired by jq
+- [danburzo/hred](https://github.com/danburzo/hred) - Reduce HTML (and XML) to JSON from the command line.
+- [Index of /Tools/HTML-XML-utils](https://www.w3.org/Tools/HTML-XML-utils/)
+- [jhy/jsoup](https://github.com/jhy/jsoup/) - the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+- [ludovicianul/hq](https://github.com/ludovicianul/hq) - lightweight command line HTML processor using CSS and XPath selectors
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [osener/wring](https://github.com/osener/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
+- [plainas/tq](https://github.com/plainas/tq) - Perform a lookup by CSS selector on an HTML input
+- [pup](https://github.com/EricChiang/pup) - Parsing HTML at the command line
+- [suntong/cascadia](https://github.com/suntong/cascadia) - Go cascadia package command line CSS selector
+- [XMLStarlet Command Line XML Toolkit](http://xmlstar.sourceforge.net/)
 
 ### Rewritten in Rust
 
