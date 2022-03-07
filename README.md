@@ -27,6 +27,8 @@
 - [Databases](#databases)
 - [Design and Product](#design-and-product)
 - [Development](#development)
+    - [Developer Toolbox](#developer-toolbox)
+    - [Snippets Manager](#snippets-manager)
 - [Docker](#docker)
 - [Documentation Generator](#documentation-generator)
 - [Editors / IDEs](#editors--ides)
@@ -537,7 +539,6 @@ TODO: 待补充。
 - [Sentry](https://sentry.io/) - 异常捕捉。
 - [shellcheck](https://www.shellcheck.net/) - shell 静态分析和 lint 工具。
 - [Skala Color](https://bjango.com/help/skalacolor/gettingstarted/) - 取色器。
-- [SnippetsLab](https://www.renfei.org/snippets-lab/) - 代码片段管理。
 - [starship](https://starship.rs/) - 不错的 shell 提示符，用过一段时间，后来换到了 [Powerlevel10k](https://github.com/romkatv/powerlevel10k)。
 - [stern](https://github.com/stern/stern) - Kubernetes 日志查看工具。
 - [stow](https://www.gnu.org/software/stow/) - 文件链接管理工具，常用来管理 dotfiles，不过我更喜欢 [Dotbot](https://github.com/anishathalye/dotbot)。
@@ -552,6 +553,34 @@ TODO: 待补充。
 - [Yarn](https://yarnpkg.com/) - JavaScript 包管理，类似 NPM。
 - [yehua](https://github.com/moremoban/yehua) - Make a project in 1 minute from a project template but keep updating it forever. 类似 Cookiecutter，但支持更新。
 - [yq](https://github.com/kislyuk/yq) - 命令行下的 YAML 和 XML 解析工具。
+
+### Developer Toolbox
+
+- [DevBox](https://www.dev-box.app/) - The Developer Toolbox
+- [DevUtils.app](https://devutils.app/) - Offline Toolbox for Developers
+- [felixse/Woop](https://github.com/felixse/Woop) - Woop is a scriptable scratchpad that allows you to run any transformations on your text using the built-in or your self-written .js scripts.
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
+- [KeJunMao/vscode-devtoys](https://github.com/KeJunMao/vscode-devtoys) - DevToys for VScode
+- [liferooter/textpieces](https://github.com/liferooter/textpieces) - Quick text processing
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [Transform](https://transform.tools/)
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+
+### Snippets Manager
+
+- [Alfred Snippets and Text Expansion](https://www.alfredapp.com/help/features/snippets/)
+- [Code snippet organizer for pros | Cacher](https://www.cacher.io/)
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻 Democratizing Snippet Management (macOS/Win/Linux)
+- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
+- [k1LoW/frgm](https://github.com/k1LoW/frgm) - frgm is a meta snippet (fragment) manager.
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
+- [SnippetsLab](https://www.renfei.org/snippets-lab/) - 代码片段管理。
+- [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+- [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+- [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - A snippet management app for developers
 
 ## Docker
 
