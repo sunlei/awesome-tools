@@ -1264,8 +1264,18 @@ TODO: 待补充。
 
 ## Time Tracking
 
+- [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. 开源可自建。
+    - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [karpathy/ulogme](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments.
 - [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) - 开源可自建。
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics. 兼容 WakaTime，可自建。
+- [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
+- [RescueTime](https://www.rescuetime.com/)
+- [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
+- [Timing](https://timingapp.com/) - Automatic Mac Time Tracker – Manual Timers Optional
 - [traggo/server](https://github.com/traggo/server) - 开源可自建。
+- [WakaTime](https://wakatime.com/) - Dashboards for developers
+    - [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter) - Exports Prometheus metrics from Wakatime.
 
 ## URL Shortener
 
