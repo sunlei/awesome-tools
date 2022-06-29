@@ -1233,6 +1233,7 @@ TODO: 待补充。
 ## Task Management / To-Do Lists
 
 - [Microsoft To Do](https://to-do.microsoft.com/) - 任务管理软件，微软把 Wunderlist 收购废掉后出了这个。
+- [Taskade](https://taskade.com/) - 实时和协作任务管理软件。
 - [TaskPaper](https://www.taskpaper.com/) - 任务管理，纯文本，类似的还有 [Todo.txt](http://todotxt.org/)
 - [Things](https://culturedcode.com/things/) - 任务管理软件。
 - [Todo.txt](http://todotxt.org/) - 任务管理，纯文本。
