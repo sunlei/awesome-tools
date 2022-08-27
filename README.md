@@ -156,7 +156,7 @@ TODO: 待补充。
 - [Cruncher](https://cruncher.io/) - [osnr/cruncher](https://github.com/osnr/cruncher)
 - [dedo](https://dedo.io/)
 - [filipesabella/CalcPad](https://github.com/filipesabella/calcpad)
-- [insect - scientific calculator](https://insect.sh/) - [sharkdp/insect](https://github.com/sharkdp/insect)
+- [insect](https://insect.sh/) - [sharkdp/insect](https://github.com/sharkdp/insect)
 - [InstaCalc](https://instacalc.com/)
 - [LastCalc](http://lastcalc.org/ebq2ksB)
 - [Math Notepad](http://mathnotepad.com/)
