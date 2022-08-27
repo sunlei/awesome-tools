@@ -11,6 +11,7 @@
 - [Bastion Host](#bastion-host)
 - [BitTorrent](#bittorrent)
 - [Browsers](#browsers)
+- [Calculator](#calculator)
 - [Cheat Sheet](#cheat-sheet)
 - [Chrome Extensions](#chrome-extensions)
 - [CI/CD](#cicd)
@@ -148,6 +149,29 @@ TODO: 待补充。
 - [Google Chrome](https://www.google.com/intl/en_us/chrome/)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Tor](https://www.torproject.org/) - 洋葱头。
+
+## Calculator
+
+- [Calca](http://calca.io/)
+- [Cruncher](https://cruncher.io/) - [osnr/cruncher](https://github.com/osnr/cruncher)
+- [dedo](https://dedo.io/)
+- [filipesabella/CalcPad](https://github.com/filipesabella/calcpad)
+- [insect - scientific calculator](https://insect.sh/) - [sharkdp/insect](https://github.com/sharkdp/insect)
+- [InstaCalc](https://instacalc.com/)
+- [LastCalc](http://lastcalc.org/ebq2ksB)
+- [Math Notepad](http://mathnotepad.com/)
+- [NoteCalc](https://bbodi.github.io/notecalc3/) - [bbodi/notecalc3](https://github.com/bbodi/notecalc3)
+- [Notepad Calculator](https://notepadcalculator.com/)
+- [Numbr](https://numbr.dev/) - [antonmedv/numbr](https://github.com/antonmedv/numbr)
+- [Numi](https://numi.app/)
+- [NumPad](https://numpad.io/)
+- [parnold-x/nasc](https://github.com/parnold-x/nasc)
+- [PCalc](https://pcalc.com/)
+- [Qalculate](https://qalculate.github.io/)
+- [Recomputer](https://xixixao.github.io/recomputer/) - [xixixao/recomputer](https://github.com/xixixao/recomputer)
+- [Soulver 3](https://soulver.app/)
+- [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el)
+- [Tydlig](http://tydligapp.com/)
 
 ## Cheat Sheet
 
@@ -737,6 +761,7 @@ TODO: 待补充。
 
 - [bash-templater](https://github.com/vicentebolea/bash-templater) - Simplest Ever Template Engine (15 lines of BASH)
 - [cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
+- [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html)
 - [Filepp](https://www-users.york.ac.uk/~dm26/filepp/) - The generic file preprocessor
 - [FMPP](http://fmpp.sourceforge.net/) - Text file preprocessor (HTML preprocessor)
 - [GNU M4](https://www.gnu.org/software/m4/)
@@ -746,6 +771,7 @@ TODO: 待补充。
 - [hero](https://github.com/shiyanhui/hero) - A handy, fast and powerful go template engine.
 - [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - CLI for Jinja2
+- [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
 - [moban](https://github.com/moremoban/moban) - General purpose static text generator using Jinja2 and other python template engines. `Jinja2`
 - [Mustache processor](https://mustache.github.io/mustache.1.html)
 - [MyDef](https://github.com/hzhou/MyDef) - Programming in the next paradigm -- your way
@@ -1341,11 +1367,9 @@ TODO: 待补充。
 - [MarginNote](https://www.marginnote.com/) - 电子阅读工具。
 - [Microsoft Office](https://www.office.com/)
 - [Noizio](https://noiz.io/) - 白噪声。
-- [Numi](https://numi.app/) - 计算器。
 - [One Switch](https://fireball.studio/oneswitch/) - 各种一键开关。
 - [Parallels Desktop](https://www.parallels.com/) - 虚拟机。
 - [Paste](https://pasteapp.io/) - 剪切板管理/同步。
-- [PCalc](https://pcalc.com/) - 科学计算器。
 - [PicGo](https://molunerfinn.com/PicGo/) - 支持各种图床的上传工具，基于 Electron，[开源](https://github.com/Molunerfinn/PicGo)。
 - [Pock](https://pock.dev/) - 让 Touch Bar 更有用的工具，[开源](https://github.com/pigigaldi/Pock)。
 - [PopClip](https://pilotmoon.com/popclip/) - 选中文字后的各种快捷操作。
@@ -1451,6 +1475,7 @@ IFTTT 的同类。
 - [Apiway](https://apiway.ai/)
 - [Autocode](https://autocode.com/) - 支持的 [服务](https://autocode.com/lib/)。
 - [Automate](https://automate.io/) - 支持的 [服务](https://automate.io/integrations)。
+- [Azkaban](https://azkaban.github.io/) - Open-source Workflow Manager
 - [Beehive](https://github.com/muesli/beehive) - 支持的 [服务](https://github.com/muesli/beehive/wiki/Available-Hives)。
 - [DataFire](https://github.com/DataFire/DataFire) - 支持的 [服务](https://app.datafire.io/integrations)。
 - [Home Assistant](https://www.home-assistant.io/) - 放到这个分类有点牵强，支持的 [服务](https://www.home-assistant.io/integrations/)。
@@ -1467,10 +1492,10 @@ IFTTT 的同类。
 
 ## Zsh plugin
 
-- [Antibody](https://github.com/getantibody/antibody) - zsh 插件管理工具，用过一段时间，后来换 [Zinit](https://github.com/zdharma/zinit) 了。
+- [Antibody](https://github.com/getantibody/antibody) - zsh 插件管理工具，用过一段时间，后来换 [Zinit](https://github.com/zdharma-continuum/zinit) 了。
 - [Antigen](https://github.com/zsh-users/antigen) - zsh 插件管理工具。
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh theme，很好用，特别是`Instant prompt`这个特性，我从 [starship](https://starship.rs/) 转过来的。
-- [Zinit](https://github.com/zdharma/zinit) - zsh 插件管理工具，很好用，特别是`Turbo Mode`这个特性，[Antibody](https://github.com/getantibody/antibody) 转过来的。
+- [Zinit](https://github.com/zdharma-continuum/zinit) - zsh 插件管理工具，很好用，特别是`Turbo Mode`这个特性，[Antibody](https://github.com/getantibody/antibody) 转过来的。
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
