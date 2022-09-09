@@ -63,11 +63,14 @@
     - [Roam Like / Networked](#roam-like--networked)
 - [Password Managers](#password-managers)
 - [PDF](#pdf)
+- [Privacy](#privacy)
+- [Profiling](#profiling)
+    - [Python](#python)
 - [Project Management](#project-management)
 - [Prototyping and Mind-Mapping](#prototyping-and-mind-mapping)
 - [Proxy and VPN](#proxy-and-vpn)
 - [Proxy Rules And Scripts](#proxy-rules-and-scripts)
-- [Python](#python)
+- [Python](#python-1)
     - [Formatter](#formatter)
     - [Linter](#linter)
     - [Package Management](#package-management)
@@ -86,6 +89,7 @@
 - [Time Tracking](#time-tracking)
 - [URL Shortener](#url-shortener)
 - [Utilities](#utilities)
+- [Visualization](#visualization)
 - [VSCode Extensions](#vscode-extensions)
 - [Window Management](#window-management)
 - [Workflow Automation](#workflow-automation)
@@ -588,6 +592,7 @@ TODO: 待补充。
 - [KeJunMao/vscode-devtoys](https://github.com/KeJunMao/vscode-devtoys) - DevToys for VScode
 - [liferooter/textpieces](https://github.com/liferooter/textpieces) - Quick text processing
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [quicktype](https://app.quicktype.io/)
 - [Transform](https://transform.tools/)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
@@ -1077,6 +1082,29 @@ TODO: 待补充。
 - [PDF Squeezer](https://witt-software.com/pdfsqueezer/) - PDF 压缩工具。
 - [PDFpen](https://smilesoftware.com/pdfpen/) - PDF 阅读/编辑。
 
+## Privacy
+
+- [CryptPad](https://cryptpad.fr/) - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)
+- [Etherpad](https://etherpad.org/) - [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
+- [Privacy Guides](https://www.privacyguides.org/)
+- [PrivateBin](https://privatebin.info/) - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
+
+## Profiling
+
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
+- [Open Source Continuous Profiling Platform](https://pyroscope.io/)
+- [Perfetto](https://perfetto.dev/) - System profiling, app tracing and trace analysis
+- [speedscope](https://www.speedscope.app/)
+
+### Python
+
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+- [FunctionTrace](https://functiontrace.com/) - human-oriented profiling for Python
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - a high-performance, high-precision CPU, GPU, and memory profiler for Python
+
 ## Project Management
 
 - [GitLab](https://about.gitlab.com/)
@@ -1389,6 +1417,18 @@ TODO: 待补充。
 - [Wallcat](https://beta.wall.cat/) - 壁纸自动切换工具。
 - [Waltr](https://softorino.com/waltr/) - iOS 文件传输工具。
 - [Yoink](https://eternalstorms.at/yoink/) - 文件暂存。
+
+## Visualization
+
+- [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and finding the right type.
+- [Matplotlib](https://matplotlib.org/) - Visualization with Python
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express)
+- [seaborn](https://seaborn.pydata.org/) - statistical data visualization — seaborn 0.12.0 documentation
+- [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [Vega](https://vega.github.io/vega/)
+- [Vega-Altair](https://altair-viz.github.io/) - Declarative Visualization in Python — Altair 4.2.0 documentation
+- [Vega-Lite](http://vega.github.io/vega-lite/)
 
 ## VSCode Extensions
 
