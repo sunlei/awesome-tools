@@ -61,6 +61,8 @@
 - [Networking](#networking)
 - [Note-taking](#note-taking)
     - [Roam Like / Networked](#roam-like--networked)
+- [Notification](#notification)
+    - [Selfhosted](#selfhosted)
 - [Password Managers](#password-managers)
 - [PDF](#pdf)
 - [Privacy](#privacy)
@@ -1063,6 +1065,22 @@ TODO: 待补充。
 - [RemNote](https://www.remnote.io/)
 - [Roam Research](https://roamresearch.com/)
 - [TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - 基于 TiddlyWiki。
+
+## Notification
+
+
+### Selfhosted
+
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - 支持 Web APP、iOS、macOS · Send push notifications to your phone or desktop using PUT/POST
+- [caronc/apprise](https://github.com/caronc/apprise) - 支持众多服务 · Push Notifications that work with just about every platform!
+- [chanify/chanify](https://github.com/chanify/chanify) - 支持 iOS、macOS · Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 全平台支持 · 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+- [Finb/Bark](https://github.com/Finb/Bark) - 支持 iOS · Bark is an iOS App which allows you to push custom notifications to your iPhone
+- [Gotify](https://gotify.net/) - 支持 Web APP、Android · a simple server for sending and receiving messages
+- [milesmcc/librenews](https://github.com/milesmcc/librenews) - 支持 浏览器、Android · A free and open breaking news notification platform
+- [novuhq/novu](https://github.com/novuhq/novu) - 支持众多服务 · The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
+- [pushbits/server](https://github.com/pushbits/server) - 支持 Matrix · A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify with a strong focus on security) 🚀📯
+- [tannercollin/Notica](https://github.com/tannercollin/Notica) - 支持浏览器 · Send browser notifications from your terminal. No installation. No registration.
 
 ## Password Managers
 
