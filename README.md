@@ -63,6 +63,7 @@
     - [Roam Like / Networked](#roam-like--networked)
 - [Notification](#notification)
     - [Selfhosted](#selfhosted)
+- [PaaS & Serverless](#paas--serverless)
 - [Password Managers](#password-managers)
 - [PDF](#pdf)
 - [Privacy](#privacy)
@@ -1081,6 +1082,34 @@ TODO: 待补充。
 - [novuhq/novu](https://github.com/novuhq/novu) - `支持众多服务` The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
 - [pushbits/server](https://github.com/pushbits/server) - `支持 Matrix` A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify with a strong focus on security) 🚀📯
 - [tannercollin/Notica](https://github.com/tannercollin/Notica) - `支持浏览器` Send browser notifications from your terminal. No installation. No registration.
+
+## PaaS & Serverless
+
+- [Bunnyshell](https://www.bunnyshell.com/) - Environments as a Service
+- [Clever Cloud](https://www.clever-cloud.com/)
+- [Cloudflare Workers®](https://workers.cloudflare.com/)
+- [Cyclic.sh](https://www.cyclic.sh/) - Fullstack Javascript Apps - Deploy and Host in Seconds
+- [Deta](https://www.deta.sh/)
+- [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform) - Build, Deploy and Scale Apps Quickly
+- [Divio](https://www.divio.com/) - The Multi Cloud Management Platform for Enterprises
+- [Dokku](https://dokku.com/) - The smallest PaaS implementation you've ever seen
+- [Fly](https://fly.io/) - Deploy app servers close to your users
+- [Hatchbox](https://www.hatchbox.io/)
+- [Heroku](https://www.heroku.com/) - Cloud Application Platform
+- [Koyeb](https://www.koyeb.com/) - The fastest way to deploy applications globally
+- [mogenius](https://mogenius.com/) - The easiest way to run any application in the cloud
+- [Netlify](https://www.netlify.com/) - Develop & deploy the best web experiences in record time
+- [Northflank](https://northflank.com/) - Deploy any code, job, or database in seconds.
+- [Okteto](https://www.okteto.com/) - The Kubernetes development platform
+- [PikaPods](https://www.pikapods.com/) - Instant Open Source App Hosting
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [PlanetScale](https://planetscale.com/) - The MySQL-compatible serverless database platform.
+- [Qoddi.com](https://qoddi.com/) - Premium Cloud App Hosting Platform
+- [Railway](https://railway.app/)
+- [Render](https://render.com/) - Cloud Application Hosting for Developers
+- [Supabase](https://supabase.com/) - The Open Source Firebase Alternative
+- [TiDB Cloud | PingCAP](https://www.pingcap.com/tidb-cloud/) - Distributed Cloud Database
+- [Vercel](https://vercel.com/) - Develop. Preview. Ship. For the best frontend teams
 
 ## Password Managers
 
