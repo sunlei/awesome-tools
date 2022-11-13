@@ -86,12 +86,14 @@
 - [Security](#security)
 - [SSH](#ssh)
 - [Task Management / To-Do Lists](#task-management--to-do-lists)
+- [Task Queues](#task-queues)
 - [Terminal](#terminal)
 - [Testing](#testing)
 - [Text Expander](#text-expander)
 - [Time Tracking](#time-tracking)
 - [URL Shortener](#url-shortener)
 - [Utilities](#utilities)
+- [UUID Like](#uuid-like)
 - [Visualization](#visualization)
 - [VSCode Extensions](#vscode-extensions)
 - [Window Management](#window-management)
@@ -1339,6 +1341,18 @@ TODO: 待补充。
 - [Todo.txt](http://todotxt.org/) - 任务管理，纯文本。
 - [Todoist](https://todoist.com/) - 任务管理软件。
 
+## Task Queues
+
+- [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq)
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [closeio/tasktiger](https://github.com/closeio/tasktiger) - Python task queue using Redis
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
+- [NATS.io](https://nats.io/) - Cloud Native, Open Source, High-performance Messaging
+- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
+- [Task Queues](https://taskqueues.com/) - A list of task queue libraries and message brokers
+- [Task Queues](https://www.fullstackpython.com/task-queues.html) - Full Stack Python
+- [wakatime/wakaq](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery
+
 ## Terminal
 
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1464,6 +1478,17 @@ TODO: 待补充。
 - [Wallcat](https://beta.wall.cat/) - 壁纸自动切换工具。
 - [Waltr](https://softorino.com/waltr/) - iOS 文件传输工具。
 - [Yoink](https://eternalstorms.at/yoink/) - 文件暂存。
+
+## UUID Like
+
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [dylang/shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
+- [oculus42/short-uuid](https://github.com/oculus42/short-uuid) - Translate standard UUIDs into shorter formats and back.
+- [paralleldrive/cuid](https://github.com/paralleldrive/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+- [taskcluster/slugid](https://github.com/taskcluster/slugid) - URL-safe base64 UUID encoder for generating 22 character slugs
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 
 ## Visualization
 
