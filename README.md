@@ -51,6 +51,9 @@
 - [Identity Management](#identity-management)
 - [Image Optimizers](#image-optimizers)
 - [IP Geolocation](#ip-geolocation)
+- [Kubernetes](#kubernetes)
+    - [Distributions](#distributions)
+    - [Utils](#utils)
 - [Let's Encrypt](#lets-encrypt)
 - [Linux/VPS Benchmarking](#linuxvps-benchmarking)
 - [Markdown](#markdown)
@@ -85,6 +88,7 @@
 - [RSS](#rss)
 - [Screencapturing](#screencapturing)
 - [Security](#security)
+- [SMS Receiving](#sms-receiving)
 - [SSH](#ssh)
 - [Task Management / To-Do Lists](#task-management--to-do-lists)
 - [Task Queues](#task-queues)
@@ -558,7 +562,6 @@ TODO: 待补充。
 - [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/)
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Go lint 工具。
 - [haproxy](http://www.haproxy.org/)
-- [Helm](https://helm.sh/) - Kubernetes 应用管理工具。
 - [hey](https://github.com/rakyll/hey) - HTTP 压力测试工具。
 - [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php) - 文件高亮查看/转换工具。
 - [hr](https://github.com/LuRsT/hr) - 终端下的 `<hr />`，在终端下输出水平分割线。
@@ -567,9 +570,6 @@ TODO: 待补充。
 - [ImageMagick](https://imagemagick.org/index.php) - 图像处理神器。
 - [jq](https://stedolan.github.io/jq/) - 命令行下的 JSON 处理工具。
 - [Kite](https://www.kite.com/) - 代码补全工具。
-- [kubernetes-cli](https://kubernetes.io/) - Kubernetes CLI.
-- [Kubetail](https://github.com/johanhaleby/kubetail) - Kubernetes 日志查看工具。
-- [lens](https://k8slens.dev/) - Kubernetes 管理工具/IDE。
 - [loc](https://github.com/cgag/loc) - 代码统计工具。
 - [modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories.
 - [myrepos](https://myrepos.branchable.com/) - 多仓库管理工具。
@@ -596,7 +596,6 @@ TODO: 待补充。
 - [shellcheck](https://www.shellcheck.net/) - shell 静态分析和 lint 工具。
 - [Skala Color](https://bjango.com/help/skalacolor/gettingstarted/) - 取色器。
 - [starship](https://starship.rs/) - 不错的 shell 提示符，用过一段时间，后来换到了 [Powerlevel10k](https://github.com/romkatv/powerlevel10k)。
-- [stern](https://github.com/stern/stern) - Kubernetes 日志查看工具。
 - [stow](https://www.gnu.org/software/stow/) - 文件链接管理工具，常用来管理 dotfiles，不过我更喜欢 [Dotbot](https://github.com/anishathalye/dotbot)。
 - [SwiftLint](https://github.com/realm/SwiftLint) - Swift lint 工具。
 - [TabNine](https://www.tabnine.com/) - 代码补全工具。
@@ -932,6 +931,28 @@ TODO: 待补充。
 - [members.3322.org/dyndns/getip](http://members.3322.org/dyndns/getip)
 - [zxinc](https://ip.zxinc.org/) - `curl 'https://ip.zxinc.org/api.php?type=json'`
 
+## Kubernetes
+
+
+### Distributions
+
+- [k0s](https://github.com/k0sproject/k0s)
+- [k3s](https://github.com/k3s-io/k3s)
+- [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [MicroK8s](https://github.com/canonical/microk8s)
+- [Minikube](https://github.com/kubernetes/minikube)
+
+### Utils
+
+- [Helm](https://helm.sh/) - Kubernetes 应用管理工具。
+- [k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
+- [kubernetes-cli](https://kubernetes.io/) - Kubernetes CLI.
+- [Kubetail](https://github.com/johanhaleby/kubetail) - Kubernetes 日志查看工具。
+- [lens](https://k8slens.dev/) - Kubernetes 管理工具/IDE。
+- [Okteto](https://www.okteto.com/) - The Kubernetes development platform
+- [stern](https://github.com/stern/stern) - Kubernetes 日志查看工具。
+
 ## Let's Encrypt
 
 - [acme.sh](https://github.com/acmesh-official/acme.sh)
@@ -1125,7 +1146,6 @@ TODO: 待补充。
 - [mogenius](https://mogenius.com/) - The easiest way to run any application in the cloud
 - [Netlify](https://www.netlify.com/) - Develop & deploy the best web experiences in record time
 - [Northflank](https://northflank.com/) - Deploy any code, job, or database in seconds.
-- [Okteto](https://www.okteto.com/) - The Kubernetes development platform
 - [PikaPods](https://www.pikapods.com/) - Instant Open Source App Hosting
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [PlanetScale](https://planetscale.com/) - The MySQL-compatible serverless database platform.
@@ -1346,6 +1366,15 @@ TODO: 待补充。
 - [sqlmap](http://sqlmap.org/) - SQL 注入工具。
 - [sslscan](https://github.com/rbsec/sslscan) - SSL/TLS 扫描工具。
 - [YARA](https://github.com/VirusTotal/yara/) - 恶意软件查找。
+
+## SMS Receiving
+
+- [5sim](https://5sim.net/)
+- [CheapSMS](https://cheapsms.ru/en/site/index)
+- [SMS-Activate](https://sms-activate.org/en)
+- [SMS-MAN.com](https://sms-man.com/)
+- [TextNow](https://www.textnow.com/)
+- [tiger-sms](https://tiger-sms.com/)
 
 ## SSH
 
