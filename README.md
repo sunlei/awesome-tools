@@ -945,6 +945,7 @@ TODO: 待补充。
 
 ### Utils
 
+- [autok3s](https://github.com/cnrancher/autok3s)
 - [Helm](https://helm.sh/) - Kubernetes 应用管理工具。
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 - [kubernetes-cli](https://kubernetes.io/) - Kubernetes CLI.
