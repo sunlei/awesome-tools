@@ -101,6 +101,7 @@
 - [UUID Like](#uuid-like)
 - [Visualization](#visualization)
 - [VSCode Extensions](#vscode-extensions)
+- [Web Analytics](#web-analytics)
 - [Window Management](#window-management)
 - [Workflow Automation](#workflow-automation)
 - [Zsh plugin](#zsh-plugin)
@@ -939,6 +940,7 @@ TODO: 待补充。
 - [k0s](https://github.com/k0sproject/k0s)
 - [k3s](https://github.com/k3s-io/k3s)
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [KubeOperator](https://kubeoperator.io/)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [MicroK8s](https://github.com/canonical/microk8s)
 - [Minikube](https://github.com/kubernetes/minikube)
@@ -946,9 +948,11 @@ TODO: 待补充。
 ### Utils
 
 - [autok3s](https://github.com/cnrancher/autok3s)
+- [derailed/k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 - [Helm](https://helm.sh/) - Kubernetes 应用管理工具。
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 - [kubernetes-cli](https://kubernetes.io/) - Kubernetes CLI.
+- [KubeSphere](https://kubesphere.io)
 - [Kubetail](https://github.com/johanhaleby/kubetail) - Kubernetes 日志查看工具。
 - [lens](https://k8slens.dev/) - Kubernetes 管理工具/IDE。
 - [Okteto](https://www.okteto.com/) - The Kubernetes development platform
@@ -1621,6 +1625,19 @@ TODO: 待补充说明。
 - [vscode-json](https://marketplace.visualstudio.com/items?itemName=andyyaldoo.vscode-json)
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+## Web Analytics
+
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+- [AWStats](http://www.awstats.org/) - Open Source Log File Analyzer for advanced statistics (GNU GPL)
+- [Countly](https://count.ly/web-analytics) - Secure Web Analytics
+- [Fathom Analytics](https://usefathom.com/) - The Google Analytics alternative without compromise
+- [GoAccess](https://goaccess.io/) - Visual Web Log Analyzer
+- [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly analytics plugin for WordPress
+- [Matomo Analytics](https://matomo.org/) - The Google Analytics alternative that protects your data
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+- [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly Google Analytics alternative
+- [umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 ## Window Management
 
