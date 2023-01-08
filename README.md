@@ -22,6 +22,7 @@
 - [Command Line](#command-line)
     - [Like jq](#like-jq)
     - [Rewritten in Rust](#rewritten-in-rust)
+    - [Terminal Dashboard](#terminal-dashboard)
 - [Communication](#communication)
 - [Content Management Systems](#content-management-systems)
 - [Cron Job](#cron-job)
@@ -125,6 +126,7 @@ TODO: 待补充。
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [ory/hydra](https://github.com/ory/hydra#what-is-ory-hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [Traefik ForwardAuth Documentation](https://doc.traefik.io/traefik/middlewares/http/forwardauth/)
@@ -393,7 +395,6 @@ TODO: 待补充说明。
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [sampler](https://sampler.dev/) - 终端下的可视化工具。
 - [sd](https://github.com/chmln/sd) - 加强版 sed。
 - [selecta](https://github.com/garybernhardt/selecta/) - A fuzzy text selector for files and anything else you need to select.
 - [sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
@@ -452,6 +453,16 @@ TODO: 待补充说明。
 ### Rewritten in Rust
 
 TODO: 待补充。
+
+### Terminal Dashboard
+
+- [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
+- [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
+- [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - A little dashboard that tries to take care of you when you're using your terminal.
+- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers and Creators
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 
 ## Communication
 
@@ -1418,6 +1429,7 @@ TODO: 待补充。
 - [iTerm](https://iterm2.com/) - 终端模拟器。
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - 解决 macOS 下使用 tmux 时有些命令失效的问题。
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Terminus](https://eugeny.github.io/terminus/) - 终端模拟器，[开源](https://github.com/Eugeny/terminus)。
 - [tmux](https://github.com/tmux/tmux) - 终端复用工具。
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - tmux 辅助工具。
