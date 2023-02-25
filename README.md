@@ -13,6 +13,7 @@
 - [BitTorrent](#bittorrent)
 - [Browsers](#browsers)
 - [Calculator](#calculator)
+- [CAPTCHA Solver](#captcha-solver)
 - [Cheat Sheet](#cheat-sheet)
 - [Chrome Extensions](#chrome-extensions)
 - [CI/CD](#cicd)
@@ -51,7 +52,7 @@
 - [HTTP/S Debug](#https-debug)
 - [Identity Management](#identity-management)
 - [Image Optimizers](#image-optimizers)
-- [IP Geolocation](#ip-geolocation)
+- [IP Info](#ip-info)
 - [Kubernetes](#kubernetes)
     - [Distributions](#distributions)
     - [Utils](#utils)
@@ -211,6 +212,15 @@ TODO: 待补充。
 - [Soulver 3](https://soulver.app/)
 - [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el)
 - [Tydlig](http://tydligapp.com/)
+
+## CAPTCHA Solver
+
+- [0captcha](https://0captcha.com/)
+- [2Captcha](https://2captcha.com)
+- [Bypass Captcha](https://bypasscaptcha.com/)
+- [Death By Captcha](https://deathbycaptcha.com/)
+- [NopeCHA](https://nopecha.com/)
+- [TrueCaptcha](https://truecaptcha.org/)
 
 ## Cheat Sheet
 
@@ -643,8 +653,11 @@ TODO: 待补充。
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [k1LoW/frgm](https://github.com/k1LoW/frgm) - frgm is a meta snippet (fragment) manager.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
+- [SnipperApp 2](https://snipperapp.com/)
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - 代码片段管理。
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
@@ -918,29 +931,74 @@ TODO: 待补充。
 - [Squash](https://www.realmacsoftware.com/squash/)
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - [TinyPNG](https://tinypng.com/) 客户端。
 
-## IP Geolocation
+## IP Info
 
-- `curl checkip.amazonaws.com`
-- `curl curlmyip.com`
-- `curl icanhazip.com`
-- `curl ip.appspot.com`
-- `curl ipecho.net/plain`
-- `curl www.trackip.net/ip`
 - `dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
 - `dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
-- `dig +short myip.opendns.com @resolver1.opendns.com`
 - `dig TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
+- `curl -sL hostname.cloudcache.net`
+- `curl [2a09::]`
+- `curl [2a11::]`
+- `curl 3.0.3.0`
+- `curl checkip.amazonaws.com`
+- `curl checkip.dyndns.com`
+- `curl checkip.dyndns.org`
+- `curl cloudflare.com/cdn-cgi/trace`
+- `curl curlmyip.com`
+- `curl httpbin.org/ip`
+- `curl https://api.akkariin.com:24443/getip/`
+- `curl https://api.myip.com`
+- `curl https://lerry.me/ip`
+- `curl https://myip.biturl.top`
+- `curl https://www.jsonip.com`
+- `curl icanhazip.com`
+- `curl ifconfig.io`
+- `curl ip.appspot.com`
+- `curl ip.fht.im`
+- `curl ip.fm`
+- `curl ip.gs`
+- `curl ip.p3terx.com`
+- `curl ip.sb`
+- `curl ip.threep.top`
+- `curl ip.z7z.cc`
+- `curl ipecho.net/plain`
+- `curl ipgrab.io`
+- `curl ipinfo.io`
+- `curl myexternalip.com/raw`
+- `curl myip.ipip.net`
+- `curl pv.sohu.com/cityjson`
+- `curl whatismyip.akamai.com`
+- `curl www.trackip.net/ip`
+- `curl xabc.io/p`
+- `dig -4 -t a +short myip.opendns.com @resolver1.opendns.com`
+- `dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com`
+- `dig -6 -t aaaa +short myip.opendns.com @resolver1.opendns.com`
+- `dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com`
+- `dig +short myip.opendns.com @resolver1.opendns.com`
 - `host myip.opendns.com resolver1.opendns.com`
+- `ssh -4 sshmyip.com`
+- `ssh -6 sshmyip.com`
+- `telnet -4 telnetmyip.com`
+- `telnet -6 telnetmyip.com`
+- `telnet ipv4.telnetmyip.com`
+- `telnet ipv6.telnetmyip.com`
 - [cip.cc](http://www.cip.cc/) - `curl cip.cc`、`curl ip.cip.cc`
 - [ifconfig.co](https://ifconfig.co/) - `curl ifconfig.co`
-- [ifconfig.me](https://ifconfig.me/) - `curl ifconfig.me`
+- [ifconfig.me](https://ifconfig.me/) - `curl ifconfig.me`、`curl ifconfig.me/ip`
 - [IP.cn](https://ip.cn/)
+- [IP.FM](https://ip.fm/)
 - [IP.SB](https://ip.sb/) - `curl ip.sb`
 - [ip138](https://ip138.com/)
-- [ipify](https://www.ipify.org/) - `curl 'https://api.ipify.org?format=json'`
+- [ipify](https://www.ipify.org/) - `curl 'https://api.ipify.org?format=json'`、`curl api.ipify.org`
 - [IPinfo.io](https://ipinfo.io/) - `curl ipinfo.io`、`curl ipinfo.io/ip`
 - [IPIP.NET](https://www.ipip.net/) - `curl myip.ipip.net`
 - [members.3322.org/dyndns/getip](http://members.3322.org/dyndns/getip)
+- [missdeer/ifconfig](https://github.com/missdeer/ifconfig) - Yet Another ifconfig inspired by ifconfig.me
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+- [OwO-Network/nexttrace-experiment](https://github.com/OwO-Network/nexttrace-experiment) - An open source visual route tracking CLI tool (experiment field)
+- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
+- [WorstTrace](https://wtrace.app/)
+- [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [zxinc](https://ip.zxinc.org/) - `curl 'https://ip.zxinc.org/api.php?type=json'`
 
 ## Kubernetes
