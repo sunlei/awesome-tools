@@ -29,6 +29,8 @@
 - [Cron Job](#cron-job)
 - [Data Visualization and Analytics](#data-visualization-and-analytics)
 - [Databases](#databases)
+    - [Management Tool](#management-tool)
+    - [Time Series](#time-series)
 - [Design and Product](#design-and-product)
 - [Development](#development)
     - [Developer Toolbox](#developer-toolbox)
@@ -525,6 +527,9 @@ TODO: 待补充。
 
 ## Databases
 
+
+### Management Tool
+
 - [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains 出品的数据库管理工具。
 - [IRedis](https://github.com/laixintao/iredis) - 交互式 redis 命令行客户端。
 - [Medis](https://github.com/luin/medis) - 基于 Electron 的 redis 可视化客户端。
@@ -535,6 +540,24 @@ TODO: 待补充。
 - [Sequel Pro](https://www.sequelpro.com/) - MySQL/MariaDB 图形工具，[开源](https://github.com/sequelpro/sequelpro)，可惜不维护了，推荐用 Sequel Ace 替代。
 - [SQLPro Studio](https://www.sqlprostudio.com/) - 数据库图形化管理。
 - [TablePlus](https://tableplus.com/) - 数据库图形化管理。
+
+### Time Series
+
+- [Amazon Timestream](https://aws.amazon.com/timestream/)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking/time+series+dbms) - popularity ranking of time Series DBMS
+- [Grafana Mimir OSS](https://grafana.com/oss/mimir/)
+- [GreptimeDB](https://greptime.com/product/db) - Open-Source, Cloud-Native, Distributed Time-Series Database | Greptime | Greptime
+- [InfluxDB](https://www.influxdata.com/)
+- [KDB](https://kx.com/)
+- [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
+- [man-group/ArcticDB](https://github.com/man-group/arcticdb)
+- [OpenTSDB](http://opentsdb.net/) - A Distributed, Scalable Monitoring System
+- [PI System](https://www.osisoft.com/pi-system/)
+- [Prometheus](https://prometheus.io/) - Monitoring system & time series database
+- [QuestDB](https://questdb.io/) - Fast SQL for time-series
+- [TDengine](https://www.taosdata.com/)
+- [Time Series Insights | Microsoft Azure](https://azure.microsoft.com/en-au/products/time-series-insights/)
+- [Timescale](https://www.timescale.com/)
 
 ## Design and Product
 
