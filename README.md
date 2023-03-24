@@ -155,11 +155,26 @@ TODO: 待补充。
 - [Arq](https://www.arqbackup.com/) - 常驻的备份软件。
 - [BorgBackup](https://www.borgbackup.org/) - [开源](https://github.com/borgbackup/borg) 备份软件，强烈推荐。
 - [borgmatic](https://github.com/witten/borgmatic) - BorgBackup 简化工具。
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - [Carbon Copy Cloner](https://bombich.com/) - 备份软件。
-- [duplicity](http://duplicity.nongnu.org/) - 还是更喜欢 BorgBackup。
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
+- [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
+- [Dirvish](https://dirvish.org/)
+- [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
+- [Duplicacy](https://duplicacy.com/)
+- [Duplicati](https://www.duplicati.com/)
+- [duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup
 - [Google 备份与同步](https://support.google.com/a/answer/2490101?hl=en&ref_topic=7455083)
+- [HashBackup Server Backup](https://www.hashbackup.com/hashbackup/index.html)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [Mackup](https://github.com/lra/mackup) - macOS 下应用设备备份/同步工具。
-- [Restic](https://restic.net/) - 还是更喜欢 BorgBackup。
+- [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
+- [restic](https://restic.net/)
+- [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
+- [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync
+- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid
 - [Vorta](https://vorta.borgbase.com/) - Borg Backup 的图形化客户端，[开源](https://github.com/borgbase/vorta)。
 
 ## Bastion Host
@@ -724,7 +739,7 @@ TODO: 待补充。
 - [Kiwi for Gmail](https://www.kiwiforgmail.com/) - 基于 Web 的 Gmail 桌面客户端。
 - [MailMate](https://freron.com/) - 对 IMAP 支持很好的邮件客户端。
 - [Mailplane](https://mailplaneapp.com/) - 基于 Web 的 Gmail 桌面客户端。
-- [Mimestream](https://mimestream.com/) - Gmail 桌面客户端。
+- [Mimestream](https://mimestream.com/) - Gmail 桌面客户端，强烈推荐。
 - [Spark](https://sparkmailapp.com/) - 邮件客户端。
 
 ## File Encryption
