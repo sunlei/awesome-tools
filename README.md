@@ -25,6 +25,7 @@
     - [Rewritten in Rust](#rewritten-in-rust)
     - [Terminal Dashboard](#terminal-dashboard)
 - [Communication](#communication)
+    - [IRC](#irc)
 - [Content Management Systems](#content-management-systems)
 - [Cron Job](#cron-job)
 - [Data Visualization and Analytics](#data-visualization-and-analytics)
@@ -493,9 +494,8 @@ TODO: 待补充。
 
 ## Communication
 
-- [Colloquy](https://github.com/colloquy/colloquy) - IRC 客户端。
+- [Beeper](https://www.beeper.com/)
 - [Discord](https://discord.com/) - 在线沟通工具。
-- [irssi](https://irssi.org/) - IRC 客户端。
 - [Mastodon](https://instances.social/) - Mastodon 实例列表。
 - [Mattermost](https://mattermost.com/) - 开源的类 Slack 产品。
 - [QQ](https://im.qq.com/)
@@ -503,9 +503,31 @@ TODO: 待补充。
 - [Signal](https://signal.org/) - IM。
 - [Slack](https://slack.com/) - 团队沟通。
 - [Telegram](https://telegram.org/)
+- [Texts](https://texts.com/)
 - [WhatsApp](https://www.whatsapp.com/) - IM。
 - [企业微信](https://work.weixin.qq.com/) - 公司内部办公软件，两个亮点：与微信互通、macOS 下原生，但是功能性比钉钉与飞书弱很多。
 - [微信](https://weixin.qq.com/)
+
+### IRC
+
+- [BitlBee](https://www.bitlbee.org)
+- [Colloquy](https://github.com/colloquy/colloquy)
+- [gamja](https://sr.ht/~emersion/gamja/)
+- [HexChat](https://hexchat.github.io/)
+- [Irssi](https://irssi.org/)
+- [KiwiIRC](https://kiwiirc.com/)
+- [kiwiirc/webircgateway](https://github.com/kiwiirc/webircgateway)
+- [Konversation](https://konversation.kde.org/)
+- [LimeChat](http://limechat.net/mac/)
+- [mIRC](https://www.mirc.com/)
+- [Palaver IRC](https://apps.apple.com/us/app/palaver/id538073623)
+- [Quassel IRC](https://quassel-irc.org/)
+- [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc)
+- [Revolution](https://play.google.com/store/apps/details?id=io.mrarm.irc)
+- [soju IRC bouncer](https://soju.im/)
+- [Textual](https://www.codeux.com/textual/)
+- [thelounge/thelounge](https://github.com/thelounge/thelounge)
+- [WeeChat](https://weechat.org/)
 
 ## Content Management Systems
 
@@ -1158,9 +1180,27 @@ TODO: 待补充。
 
 ## Music
 
+- [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced)
+- [beets](https://beets.io/) - the music geek‘s media organizer
+- [Doppler Music Player for Mac and iOS — Brushed Type](https://brushedtype.co/doppler/)
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
+- [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
+- [Music Player Daemon](https://www.musicpd.org/)
+- [MusicBrainz](https://musicbrainz.org/) - The Open Music Encyclopedia
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [Plexamp - Love your music!](https://plexamp.com/)
 - [QQ 音乐](https://y.qq.com/)
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [Spotify](https://www.spotify.com/)
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Rust 写的终端下的 Spotify 客户端。
+- [Submariner](https://submarinerapp.com/) - a Subsonic client for macOS
+- [Subsonic](http://www.subsonic.org/pages/index.jsp)
+- [substreamer](https://substreamerapp.com/#)
+- [Swinsian](https://swinsian.com/)
+- [UnblockNeteaseMusic/server-rust](https://github.com/UnblockNeteaseMusic/server-rust) - Rust 版本的 UnblockNeteaseMusic/server ，以效能、穩定性及可維護性為目標。
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
 - [网易云音乐](http://music.163.com/) - QQ 音乐的 VIP 到期且淘宝的 88VIP 开始送会员后转过来的。
 
 ## Networking
@@ -1658,14 +1698,24 @@ TODO: 待补充。
 ## Visualization
 
 - [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and finding the right type.
+- [has2k1/plotnine](https://github.com/has2k1/plotnine) - based on ggplot2
+- [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+- [holoviz/hvplot](https://github.com/holoviz/hvplot) - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
+- [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 - [Matplotlib](https://matplotlib.org/) - Visualization with Python
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express)
-- [seaborn](https://seaborn.pydata.org/) - statistical data visualization — seaborn 0.12.0 documentation
+- [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
+- [ResidentMario/missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
+- [seaborn](https://seaborn.pydata.org/) - statistical data visualization
 - [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [Vega](https://vega.github.io/vega/)
-- [Vega-Altair](https://altair-viz.github.io/) - Declarative Visualization in Python — Altair 4.2.0 documentation
+- [Vega-Altair](https://altair-viz.github.io/) - Declarative Visualization in Python
 - [Vega-Lite](http://vega.github.io/vega-lite/)
+- [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
+- [wireservice/leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
 
 ## VSCode Extensions
 
