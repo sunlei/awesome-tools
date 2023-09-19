@@ -63,6 +63,7 @@
 - [Linux/VPS Benchmarking](#linuxvps-benchmarking)
 - [Markdown](#markdown)
 - [Media](#media)
+    - [Management Tool](#management-tool-1)
 - [Monitoring](#monitoring)
     - [Grafana](#grafana)
         - [Dashboards as Code](#dashboards-as-code)
@@ -173,6 +174,7 @@ TODO: 待补充。
 - [Mackup](https://github.com/lra/mackup) - macOS 下应用设备备份/同步工具。
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [restic](https://restic.net/)
+- [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync
 - [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid
@@ -1148,6 +1150,16 @@ TODO: 待补充。
 - [VLC](https://www.videolan.org/)
 - [You-Get](https://github.com/soimort/you-get) - 视频下载工具。
 
+### Management Tool
+
+- [DanCooper/Ember-MM-Newscraper](https://github.com/DanCooper/Ember-MM-Newscraper)
+- [Komet/MediaElch](https://github.com/Komet/MediaElch)
+- [Media Center Master](http://www.mediacentermaster.com/)
+- [Media Companion](https://mediacompanion.sourceforge.io/)
+- [Movie Explorer Pro](https://betamagic.nl/products/movieexplorerpro.html)
+- [tinyMediaManager](https://www.tinymediamanager.org)
+- [vidalvanbergen/ViMediaManager](https://github.com/vidalvanbergen/ViMediaManager)
+
 ## Monitoring
 
 - [bandwhich](https://github.com/imsnif/bandwhich) - 流量查看工具。
@@ -1182,10 +1194,11 @@ TODO: 待补充。
 
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced)
 - [beets](https://beets.io/) - the music geek‘s media organizer
-- [Doppler Music Player for Mac and iOS — Brushed Type](https://brushedtype.co/doppler/)
+- [Doppler Music Player for Mac and iOS](https://brushedtype.co/doppler/)
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
+- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [Music Player Daemon](https://www.musicpd.org/)
 - [MusicBrainz](https://musicbrainz.org/) - The Open Music Encyclopedia
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
@@ -1697,6 +1710,7 @@ TODO: 待补充。
 
 ## Visualization
 
+- [Bokeh](https://bokeh.org/)
 - [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and finding the right type.
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - based on ggplot2
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
