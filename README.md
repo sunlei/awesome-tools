@@ -47,6 +47,7 @@
 - [File System Events Monitoring](#file-system-events-monitoring)
 - [Finance](#finance)
 - [Fonts](#fonts)
+- [Forex](#forex)
 - [Games](#games)
 - [General Purpose Preprocessor](#general-purpose-preprocessor)
 - [Git](#git)
@@ -55,6 +56,7 @@
 - [HTTP/S Debug](#https-debug)
 - [Identity Management](#identity-management)
 - [Image Optimizers](#image-optimizers)
+- [Image Processing](#image-processing)
 - [IP Info](#ip-info)
 - [Kubernetes](#kubernetes)
     - [Distributions](#distributions)
@@ -856,6 +858,15 @@ TODO: 待补充。
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro)
 
+## Forex
+
+- [currencylayer API](https://currencylayer.com/)
+- [Exchange Rates API](https://exchangeratesapi.io/)
+- [Exchangerate API](https://exchangerate.host/)
+- [Foreign exchange rates and currency conversion API](https://fixer.io/)
+- [Free Currency Converter API](https://free.currencyconverterapi.com/)
+- [Open Exchange Rates](https://openexchangerates.org/)
+
 ## Games
 
 - [Dead Cells](https://store.steampowered.com/app/588650/Dead_Cells/)
@@ -993,6 +1004,20 @@ TODO: 待补充。
 - [Squash](https://www.realmacsoftware.com/squash/)
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - [TinyPNG](https://tinypng.com/) 客户端。
 
+## Image Processing
+
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+    - [agschwender/pilbox](https://github.com/agschwender/pilbox) - An image resize application server
+    - [benchmark](https://github.com/imgproxy/imgproxy/blob/master/BENCHMARK.md)
+    - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
+    - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
+    - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
+    - [pierrre/imageserver](https://github.com/pierrre/imageserver) - Image server toolkit in Go
+    - [thoas/picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
+    - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+    - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
+    - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+
 ## IP Info
 
 - `dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed 's/"//g'`
@@ -1045,12 +1070,15 @@ TODO: 待补充。
 - `telnet ipv4.telnetmyip.com`
 - `telnet ipv6.telnetmyip.com`
 - [cip.cc](http://www.cip.cc/) - `curl cip.cc`、`curl ip.cip.cc`
+- [Country.is](https://country.is/)
 - [ifconfig.co](https://ifconfig.co/) - `curl ifconfig.co`
 - [ifconfig.me](https://ifconfig.me/) - `curl ifconfig.me`、`curl ifconfig.me/ip`
+- [IP-API.com](https://ip-api.com/)
 - [IP.cn](https://ip.cn/)
 - [IP.FM](https://ip.fm/)
 - [IP.SB](https://ip.sb/) - `curl ip.sb`
 - [ip138](https://ip138.com/)
+- [ipapi.is](https://ipapi.is/)
 - [ipify](https://www.ipify.org/) - `curl 'https://api.ipify.org?format=json'`、`curl api.ipify.org`
 - [IPinfo.io](https://ipinfo.io/) - `curl ipinfo.io`、`curl ipinfo.io/ip`
 - [IPIP.NET](https://www.ipip.net/) - `curl myip.ipip.net`
