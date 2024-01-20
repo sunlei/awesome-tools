@@ -127,7 +127,6 @@ TODO: 待补充。
 - [forward_auth (Caddyfile directive)](https://caddyserver.com/docs/caddyfile/directives/forward_auth)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [keratin/authn-server](https://github.com/keratin/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
-- [keratin/authn-server](https://github.com/keratin/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [logto-io/logto](https://github.com/logto-io/logto) - Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps.
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
@@ -1868,8 +1867,10 @@ IFTTT 的同类。
 - [Microsoft Power Automate](https://flow.microsoft.com/) - 微软出品。
 - [n8n](https://github.com/n8n-io/n8n) - 支持的 [服务](https://n8n.io/integrations)。
 - [Node-RED](https://nodered.org/)
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast. Free for developers.
 - [Tasker for Android](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - Android 上的，类似 iOS 的快捷指令，[官网](https://tasker.joaoapps.com/)。
 - [WayScript](https://wayscript.com/) - 支持的 [服务](https://wayscript.com/integrations)。
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Zapier](https://zapier.com/) - 支持的 [服务](https://zapier.com/apps)。
 
 ## Zsh plugin
