@@ -69,6 +69,7 @@
 - [Monitoring](#monitoring)
     - [Grafana](#grafana)
         - [Dashboards as Code](#dashboards-as-code)
+    - [TOPs](#tops)
 - [Music](#music)
 - [Networking](#networking)
 - [Note-taking](#note-taking)
@@ -356,7 +357,6 @@ TODO: 待补充说明。
 - [ccat](https://github.com/owenthereal/ccat) - 支持高亮的 cat，更推荐 [bat](https://github.com/sharkdp/bat)。
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [ClementTsang/bottom](https://github.com/clementtsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [coreutils](https://www.gnu.org/software/coreutils/) - 在 macOS 下使用 GNU Core Utilities。
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools/) - A list of command line tools for manipulating structured text data
@@ -1190,16 +1190,13 @@ TODO: 待补充。
 ## Monitoring
 
 - [bandwhich](https://github.com/imsnif/bandwhich) - 流量查看工具。
-- [bottom](https://github.com/ClementTsang/bottom) - 终端下的系统监控工具，类似 top、htop。
 - [eul](https://github.com/gao-sun/eul) - 开源的系统监控工具，类似 iStat Menus。
-- [Glances](https://nicolargo.github.io/glances/) - 系统监控，类似 top/htop。
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 系统监控工具。
 - [Netdata](https://www.netdata.cloud/) - [开源](https://github.com/netdata/netdata) 监控系统。
 - [Prometheus](https://prometheus.io/)
 - [SleepWatcher](https://www.bernhard-baehr.de/) - macOS 下的睡眠/唤醒监控工具，曾经拿来让电脑盒盖自动关闭 WiFi，解决唤醒六国问题。
 - [smartmontools](https://www.smartmontools.org/) - 硬盘 SMART 信息监控。
 - [Stats](https://github.com/exelban/stats) - 开源的系统监控工具，类似 iStat Menus。
-- [ytop](https://github.com/cjbassi/ytop) - Rust 写的系统监控工具，类似 top、htop，不维护了。
 
 ### Grafana
 
@@ -1216,6 +1213,21 @@ TODO: 待补充。
 - [Provision dashboards and data sources | Grafana Labs](https://grafana.com/tutorials/provision-dashboards-and-data-sources/)
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
+
+### TOPs
+
+- [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
+- [ClementTsang/bottom](https://github.com/clementtsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
+- [Glances](https://nicolargo.github.io/glances/) - 系统监控，类似 top/htop。
+- [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
+- [nmon and njmon](https://nmon.sourceforge.io/pmwiki.php)
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [ytop](https://github.com/cjbassi/ytop) - Rust 写的系统监控工具，类似 top、htop，不维护了。
 
 ## Music
 
