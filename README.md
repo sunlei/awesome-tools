@@ -368,8 +368,8 @@ TODO: 待补充说明。
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [duf](https://github.com/muesli/duf) - 加强版 du。
 - [dust](https://github.com/bootandy/dust) - 加强版 du，但我还是更喜欢 [ncdu](https://dev.yorhel.nl/ncdu)。
-- [exa](https://the.exa.website/) - 加强版 ls。
 - [exiftool](https://exiftool.org/) - 命令行下的 EXIF 查看、编辑工具。
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [fasd](https://github.com/clvv/fasd) - 目录快速跳转。
 - [fd](https://github.com/sharkdp/fd) - 加强版 find。
 - [fish](https://fishshell.com/) - fish shell，不习惯，还是在用 zsh。
@@ -393,7 +393,6 @@ TODO: 待补充说明。
 - [lnav](https://lnav.org/) - 命令行下的日志查看工具，支持高亮。
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [lrzsz](https://www.ohse.de/uwe/software/lrzsz.html) - rz/sz 命令。
-- [lsd](https://github.com/Peltoche/lsd) - 加强版 ls，从 exa 换过来了。
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [mas](https://github.com/mas-cli/mas) - Mac App Store CLI.
 - [McFly](https://github.com/cantino/mcfly) - Rust 写的 ctrl-r 加强工具。
