@@ -80,6 +80,8 @@
 - [Password Managers](#password-managers)
 - [PDF](#pdf)
 - [Privacy](#privacy)
+- [Process Manager](#process-manager)
+    - [Procfile](#procfile)
 - [Profiling](#profiling)
     - [Python](#python)
 - [Project Management](#project-management)
@@ -1384,6 +1386,41 @@ TODO: 待补充。
 - [Privacy Guides](https://www.privacyguides.org/)
 - [PrivateBin](https://privatebin.info/) - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
 
+## Process Manager
+
+- [alex colvin / qrl · GitLab](https://gitlab.com/mac3n/qrl)
+- [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make. An implementation of djb's redo.
+- [ejholmes/walk](https://github.com/ejholmes/walk/) - A fast, general purpose, graph based build and task execution utility.
+- [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command
+- [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+- [gearman](https://gearman.org/)
+- [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A scheduler for GPU/CPU tasks
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
+- [leahneukirchen/redo-c](https://github.com/leahneukirchen/redo-c) - An implementation of the redo build system in portable C with zero dependencies
+- [Monit](https://mmonit.com/monit/) - Easy, proactive monitoring of processes, programs, files, directories, filesystems and hosts
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - Manage your shell commands.
+- [OAR](https://oar.imag.fr/)
+- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
+- [OpenRC - Gentoo Wiki](https://wiki.gentoo.org/wiki/OpenRC)
+- [runit](https://smarden.org/runit/) - a UNIX init scheme with service supervision
+- [s6](https://skarnet.org/software/s6/) - skarnet's small supervision suite
+- [ShinyTrinkets/overseer](https://github.com/ShinyTrinkets/overseer) - Minimalistic process manager written in Go-lang. Bells and whistles not included.
+- [skarnet.com](https://skarnet.com/projects/service-manager.html)
+- [Slurm Workload Manager](https://slurm.schedmd.com/)
+- [Supervisor](http://supervisord.org/) - A Process Control System — Supervisor 4.2.5 documentation
+- [Ubuntu Manpage](https://manpages.ubuntu.com/manpages/xenial/man1/tsp.1.html) - ts - task spooler. A simple unix batch system
+
+### Procfile
+
+- [chrismytton/shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
+- [DarthSim/hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications
+- [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
+- [ddollar/forego](https://github.com/ddollar/forego) - Foreman in Go
+- [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
+- [mattn/goreman](https://github.com/mattn/goreman) - foreman clone written in go language
+- [nickstenning/honcho](https://github.com/nickstenning/honcho) - a python clone of Foreman. For managing Procfile-based applications.
+- [yukihirop/ultraman](https://github.com/yukihirop/ultraman) - Manage Procfile-based applications. (Rust Foreman)⚙︎🔨
+
 ## Profiling
 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -1602,6 +1639,7 @@ TODO: 待补充。
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [closeio/tasktiger](https://github.com/closeio/tasktiger) - Python task queue using Redis
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [NATS.io](https://nats.io/) - Cloud Native, Open Source, High-performance Messaging
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [Task Queues](https://taskqueues.com/) - A list of task queue libraries and message brokers
