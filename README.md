@@ -1456,7 +1456,7 @@ TODO: 待补充。
 - [3proxy](https://github.com/z3APA3A/3proxy)
 - [aramperes/onetun](https://github.com/aramperes/onetun) - Access your WireGuard network from anywhere
 - [clash](https://github.com/Dreamacro/clash) - 翻墙软件，有 [premium](https://github.com/Dreamacro/clash/releases/tag/premium) 版。
-- [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 实现的 macOS 下的客户端。
+- [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 实现的 macOS 下的客户端。(中文教程/排错：https://clashx.tech/tutorial)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
