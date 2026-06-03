@@ -1175,6 +1175,7 @@ TODO: 待补充。
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - 图片编辑软件。
 - [Plex](https://www.plex.tv/) - 媒体服务器。
 - [Polarr](https://www.polarr.com/) - 修图工具。
+- [igly.ai](https://igly.ai) - AI 图片编辑工具，支持去背景、图像修复、放大和生成式填充。
 - [VLC](https://www.videolan.org/)
 - [You-Get](https://github.com/soimort/you-get) - 视频下载工具。
 
