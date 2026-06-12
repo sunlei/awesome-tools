@@ -1006,6 +1006,7 @@ TODO: 待补充。
 
 ## Image Processing
 
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload to server, all processing happens locally.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
     - [agschwender/pilbox](https://github.com/agschwender/pilbox) - An image resize application server
     - [benchmark](https://github.com/imgproxy/imgproxy/blob/master/BENCHMARK.md)
