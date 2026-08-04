@@ -1933,3 +1933,5 @@ IFTTT 的同类。
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
 - [zsh-ssh](https://github.com/sunlei/zsh-ssh) - 自己写的一个 zsh 下通过 fzf 增强 ssh 命令的工具，日常高频使用，[演示](https://asciinema.org/a/381405)。
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
