@@ -1156,7 +1156,8 @@ TODO: 待补充。
 - [Glow](https://github.com/charmbracelet/glow) - 命令行下的 Markdown 查看/渲染工具。
 - [Mark](https://github.com/kovetskiy/mark) - 将 Markdown 转换为 Confluence 的格式，并发布到 Confluence 中。
 - [Marked](https://marked2app.com/) - Markdown 预览。
-- [Turndown](https://domchristie.github.io/turndown/) - HTML to Markdown 转换工具，[开源](https://github.com/domchristie/turndown)。
+- [Turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown 转换工具，[开源](https://github.com/mixmark-io/turndown)。
+- [file2markdown](https://www.file2markdown.ai/) - PDF / Word / PPT / Excel / HTML / 网页转 Markdown 在线工具，有免费额度，提供 MCP 服务。
 - [Typora](https://typora.io/) - Markdown 编辑/管理工具。
 
 ## Media
