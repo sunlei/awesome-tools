@@ -862,9 +862,9 @@ TODO: 待补充。
 
 - [currencylayer API](https://currencylayer.com/)
 - [Exchange Rates API](https://exchangeratesapi.io/)
-- [Exchangerate API](https://exchangerate.host/)
+- [Exchangerate API](https://exchangerate.host/) (API key required since 2023)
 - [Foreign exchange rates and currency conversion API](https://fixer.io/)
-- [Free Currency Converter API](https://free.currencyconverterapi.com/)
+- [AllRatesToday Central Bank Rates](https://allratestoday.com/central-bank-rates-api/) — official rates from 121 central banks, keyless
 - [Open Exchange Rates](https://openexchangerates.org/)
 
 ## Games
