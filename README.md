@@ -1153,6 +1153,7 @@ TODO: 待补充。
 
 ## Markdown
 
+- [Glim](https://github.com/NeoPanic/Glim) - 免费开源的 macOS Markdown 查看器，支持 Mermaid 图表、LaTeX 公式及基础源码编辑，可在同一工作区查看 PDF、图片、JSON 和 CSV。
 - [Glow](https://github.com/charmbracelet/glow) - 命令行下的 Markdown 查看/渲染工具。
 - [Mark](https://github.com/kovetskiy/mark) - 将 Markdown 转换为 Confluence 的格式，并发布到 Confluence 中。
 - [Marked](https://marked2app.com/) - Markdown 预览。
