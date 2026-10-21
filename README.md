@@ -502,6 +502,7 @@ TODO: 待补充。
 - [Discord](https://discord.com/) - 在线沟通工具。
 - [Mastodon](https://instances.social/) - Mastodon 实例列表。
 - [Mattermost](https://mattermost.com/) - 开源的类 Slack 产品。
+- [OpenSparta](https://opensparta.com/en) - 面向 Telegram 运营的 SaaS 工作区，帮助团队发现相关对话并管理账号与代理。
 - [QQ](https://im.qq.com/)
 - [Ripcord](https://cancel.fm/ripcord/) - 支持 Discord 和 Slack 的第三方客户端。
 - [Signal](https://signal.org/) - IM。
