@@ -554,6 +554,7 @@ TODO: 待补充。
     - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks/) - A cron monitoring tool written in Python & Django
 - [gocron](https://github.com/ouqiang/gocron)
 - [minicron](https://github.com/jamesrwhite/minicron) - Monitor your cron jobs
+- [PingCron](https://www.pingcron.io/) - Heartbeat monitoring for scheduled jobs, with alerts for missing check-ins.
 - [Power Cron](https://powercron.eu/)
 - [Pulse](https://www.webgazer.io/pulse)
 - [Script, Job, App, Batch & Cron Job Monitoring – PushMon](https://www.pushmon.com/)
