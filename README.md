@@ -1350,6 +1350,7 @@ TODO: 待补充。
 - [Koyeb](https://www.koyeb.com/) - The fastest way to deploy applications globally
 - [mogenius](https://mogenius.com/) - The easiest way to run any application in the cloud
 - [Netlify](https://www.netlify.com/) - Develop & deploy the best web experiences in record time
+- [Nhost](https://nhost.io/) - Managed backend for agentic apps: Postgres, GraphQL, auth, storage and an MCP server
 - [Northflank](https://northflank.com/) - Deploy any code, job, or database in seconds.
 - [PikaPods](https://www.pikapods.com/) - Instant Open Source App Hosting
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
