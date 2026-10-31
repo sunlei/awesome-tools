@@ -953,6 +953,7 @@ TODO: 待补充。
 
 ## GUI Automation
 
+- [agent-qa](https://vostride.com) - 自然语言 Web、Android 和 iOS 测试工具，通过 CLI / MCP 运行测试，提供 memidex 持久记忆、经验证的自我改进与可审查的运行证据。
 - [appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [AutoHotkey](https://www.autohotkey.com/)
